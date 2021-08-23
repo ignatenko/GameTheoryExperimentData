@@ -1,792 +1,1282 @@
-id,name,age,type,profile,game,round,choice
-1,майбутні,6-7,altSchool,альтернативна,1,1,5
-1,майбутні,6-7,altSchool,альтернативна,1,1,5
-1,майбутні,6-7,altSchool,альтернативна,1,1,6
-1,майбутні,6-7,altSchool,альтернативна,1,1,49
-1,майбутні,6-7,altSchool,альтернативна,1,1,61
-1,майбутні,6-7,altSchool,альтернативна,1,1,70
-1,майбутні,6-7,altSchool,альтернативна,1,1,78
-1,майбутні,6-7,altSchool,альтернативна,1,1,95
-1,майбутні,6-7,altSchool,альтернативна,1,1,99
-1,майбутні,6-7,altSchool,альтернативна,1,1,99
-1,майбутні,6-7,altSchool,альтернативна,1,1,100
-1,майбутні,6-7,altSchool,альтернативна,1,1,100
-1,майбутні,6-7,altSchool,альтернативна,1,1,100
-1,майбутні,6-7,altSchool,альтернативна,1,2,4
-1,майбутні,6-7,altSchool,альтернативна,1,2,3
-1,майбутні,6-7,altSchool,альтернативна,1,2,5
-1,майбутні,6-7,altSchool,альтернативна,1,2,3
-1,майбутні,6-7,altSchool,альтернативна,1,2,1
-1,майбутні,6-7,altSchool,альтернативна,1,2,2
-1,майбутні,6-7,altSchool,альтернативна,1,2,4
-1,майбутні,6-7,altSchool,альтернативна,1,2,3
-1,майбутні,6-7,altSchool,альтернативна,1,2,3
-1,майбутні,6-7,altSchool,альтернативна,1,2,4
-1,майбутні,6-7,altSchool,альтернативна,1,2,4
-1,майбутні,6-7,altSchool,альтернативна,1,2,11
-1,майбутні,6-7,altSchool,альтернативна,1,3,3
-1,майбутні,6-7,altSchool,альтернативна,1,3,2
-1,майбутні,6-7,altSchool,альтернативна,1,3,1
-1,майбутні,6-7,altSchool,альтернативна,1,3,1
-1,майбутні,6-7,altSchool,альтернативна,1,3,2
-1,майбутні,6-7,altSchool,альтернативна,1,3,9
-1,майбутні,6-7,altSchool,альтернативна,1,3,7
-1,майбутні,6-7,altSchool,альтернативна,1,3,2
-1,майбутні,6-7,altSchool,альтернативна,1,3,2
-1,майбутні,6-7,altSchool,альтернативна,1,3,2
-1,майбутні,6-7,altSchool,альтернативна,1,3,2
-1,майбутні,6-7,altSchool,альтернативна,1,3,4
-1,майбутні,6-7,altSchool,альтернативна,1,3,3
-2,цифра,6,altSchool,фіз-мат,1,1,50
-2,цифра,6,altSchool,фіз-мат,1,1,45
-2,цифра,6,altSchool,фіз-мат,1,1,51
-2,цифра,6,altSchool,фіз-мат,1,1,32
-2,цифра,6,altSchool,фіз-мат,1,1,26
-2,цифра,6,altSchool,фіз-мат,1,1,33
-2,цифра,6,altSchool,фіз-мат,1,1,50
-2,цифра,6,altSchool,фіз-мат,1,1,45
-2,цифра,6,altSchool,фіз-мат,1,1,49
-2,цифра,6,altSchool,фіз-мат,1,1,57
-2,цифра,6,altSchool,фіз-мат,1,1,20
-2,цифра,6,altSchool,фіз-мат,1,1,3
-2,цифра,6,altSchool,фіз-мат,1,1,33
-2,цифра,6,altSchool,фіз-мат,1,1,77
-2,цифра,6,altSchool,фіз-мат,1,1,50
-2,цифра,6,altSchool,фіз-мат,1,1,29
-2,цифра,6,altSchool,фіз-мат,1,1,78
-2,цифра,6,altSchool,фіз-мат,1,2,24
-2,цифра,6,altSchool,фіз-мат,1,2,24
-2,цифра,6,altSchool,фіз-мат,1,2,34
-2,цифра,6,altSchool,фіз-мат,1,2,30
-2,цифра,6,altSchool,фіз-мат,1,2,27
-2,цифра,6,altSchool,фіз-мат,1,2,18
-2,цифра,6,altSchool,фіз-мат,1,2,27
-2,цифра,6,altSchool,фіз-мат,1,2,30
-2,цифра,6,altSchool,фіз-мат,1,2,27
-2,цифра,6,altSchool,фіз-мат,1,2,17
-2,цифра,6,altSchool,фіз-мат,1,2,14
-2,цифра,6,altSchool,фіз-мат,1,2,18
-2,цифра,6,altSchool,фіз-мат,1,2,18
-2,цифра,6,altSchool,фіз-мат,1,2,29
-2,цифра,6,altSchool,фіз-мат,1,2,27
-2,цифра,6,altSchool,фіз-мат,1,2,26
-3,прозорро,дорослі,adults,,1,1,24
-3,прозорро,дорослі,adults,,1,1,13
-3,прозорро,дорослі,adults,,1,1,99
-3,прозорро,дорослі,adults,,1,1,55
-3,прозорро,дорослі,adults,,1,1,55
-3,прозорро,дорослі,adults,,1,1,35
-3,прозорро,дорослі,adults,,1,1,50
-3,прозорро,дорослі,adults,,1,1,55
-3,прозорро,дорослі,adults,,1,1,77
-3,прозорро,дорослі,adults,,1,1,19
-3,прозорро,дорослі,adults,,1,1,22
-3,прозорро,дорослі,adults,,1,1,33
-3,прозорро,дорослі,adults,,1,1,30
-3,прозорро,дорослі,adults,,1,1,59
-3,прозорро,дорослі,adults,,1,1,6
-3,прозорро,дорослі,adults,,1,1,42
-3,прозорро,дорослі,adults,,1,1,10
-3,прозорро,дорослі,adults,,1,1,47
-3,прозорро,дорослі,adults,,1,1,40
-4,майбутні,6-7,altSchool,альтернативна,1,1,50
-4,майбутні,6-7,altSchool,альтернативна,1,1,55
-4,майбутні,6-7,altSchool,альтернативна,1,1,53
-4,майбутні,6-7,altSchool,альтернативна,1,1,8
-4,майбутні,6-7,altSchool,альтернативна,1,1,65
-4,майбутні,6-7,altSchool,альтернативна,1,1,98
-4,майбутні,6-7,altSchool,альтернативна,1,1,72
-4,майбутні,6-7,altSchool,альтернативна,1,1,50
-4,майбутні,6-7,altSchool,альтернативна,1,1,55
-4,майбутні,6-7,altSchool,альтернативна,1,1,4
-4,майбутні,6-7,altSchool,альтернативна,1,1,68
-4,майбутні,6-7,altSchool,альтернативна,1,2,1
-4,майбутні,6-7,altSchool,альтернативна,1,2,19
-4,майбутні,6-7,altSchool,альтернативна,1,2,7
-4,майбутні,6-7,altSchool,альтернативна,1,2,14
-4,майбутні,6-7,altSchool,альтернативна,1,2,5
-4,майбутні,6-7,altSchool,альтернативна,1,2,1
-4,майбутні,6-7,altSchool,альтернативна,1,2,2
-4,майбутні,6-7,altSchool,альтернативна,1,2,1
-4,майбутні,6-7,altSchool,альтернативна,1,2,22
-4,майбутні,6-7,altSchool,альтернативна,1,2,11
-4,майбутні,6-7,altSchool,альтернативна,1,2,2
-4,майбутні,6-7,altSchool,альтернативна,1,2,100
-5,фейсбук,дорослі,adults,,1,1,21
-5,фейсбук,дорослі,adults,,1,1,10
-5,фейсбук,дорослі,adults,,1,1,33
-5,фейсбук,дорослі,adults,,1,1,3
-5,фейсбук,дорослі,adults,,1,1,11
-5,фейсбук,дорослі,adults,,1,1,83
-5,фейсбук,дорослі,adults,,1,1,67
-5,фейсбук,дорослі,adults,,1,1,22
-5,фейсбук,дорослі,adults,,1,1,1
-5,фейсбук,дорослі,adults,,1,1,11
-5,фейсбук,дорослі,adults,,1,1,17
-5,фейсбук,дорослі,adults,,1,1,50
-5,фейсбук,дорослі,adults,,1,1,37
-5,фейсбук,дорослі,adults,,1,1,24
-5,фейсбук,дорослі,adults,,1,1,17
-5,фейсбук,дорослі,adults,,1,1,49
-5,фейсбук,дорослі,adults,,1,1,18
-5,фейсбук,дорослі,adults,,1,1,27
-5,фейсбук,дорослі,adults,,1,1,3
-5,фейсбук,дорослі,adults,,1,1,22
-5,фейсбук,дорослі,adults,,1,1,10
-5,фейсбук,дорослі,adults,,1,1,77
-5,фейсбук,дорослі,adults,,1,1,3
-5,фейсбук,дорослі,adults,,1,1,15
-5,фейсбук,дорослі,adults,,1,1,1
-5,фейсбук,дорослі,adults,,1,1,33
-5,фейсбук,дорослі,adults,,1,1,6
-5,фейсбук,дорослі,adults,,1,1,50
-5,фейсбук,дорослі,adults,,1,1,69
-5,фейсбук,дорослі,adults,,1,1,62
-5,фейсбук,дорослі,adults,,1,1,27
-5,фейсбук,дорослі,adults,,1,1,17
-5,фейсбук,дорослі,adults,,1,1,32
-5,фейсбук,дорослі,adults,,1,1,25
-5,фейсбук,дорослі,adults,,1,1,66
-5,фейсбук,дорослі,adults,,1,1,5
-5,фейсбук,дорослі,adults,,1,1,33
-5,фейсбук,дорослі,adults,,1,1,1
-5,фейсбук,дорослі,adults,,1,1,33
-5,фейсбук,дорослі,adults,,1,1,17
-5,фейсбук,дорослі,adults,,1,1,35
-5,фейсбук,дорослі,adults,,1,1,52
-5,фейсбук,дорослі,adults,,1,1,50
-5,фейсбук,дорослі,adults,,1,1,17
-5,фейсбук,дорослі,adults,,1,1,3
-5,фейсбук,дорослі,adults,,1,1,17
-5,фейсбук,дорослі,adults,,1,1,25
-5,фейсбук,дорослі,adults,,1,1,12
-5,фейсбук,дорослі,adults,,1,1,19
-5,фейсбук,дорослі,adults,,1,1,16
-5,фейсбук,дорослі,adults,,1,1,22
-5,фейсбук,дорослі,adults,,1,1,2
-5,фейсбук,дорослі,adults,,1,1,5
-5,фейсбук,дорослі,adults,,1,1,11
-5,фейсбук,дорослі,adults,,1,1,87
-5,фейсбук,дорослі,adults,,1,1,1
-5,фейсбук,дорослі,adults,,1,1,17
-5,фейсбук,дорослі,adults,,1,1,1
-5,фейсбук,дорослі,adults,,1,1,6
-5,фейсбук,дорослі,adults,,1,1,51
-5,фейсбук,дорослі,adults,,1,1,13
-5,фейсбук,дорослі,adults,,1,1,2
-5,фейсбук,дорослі,adults,,1,1,1
-5,фейсбук,дорослі,adults,,1,1,33
-5,фейсбук,дорослі,adults,,1,1,55
-5,фейсбук,дорослі,adults,,1,1,1
-5,фейсбук,дорослі,adults,,1,1,66
-5,фейсбук,дорослі,adults,,1,1,3
-5,фейсбук,дорослі,adults,,1,1,11
-5,фейсбук,дорослі,adults,,1,1,17
-5,фейсбук,дорослі,adults,,1,1,15
-5,фейсбук,дорослі,adults,,1,1,15
-5,фейсбук,дорослі,adults,,1,1,66
-5,фейсбук,дорослі,adults,,1,1,10
-5,фейсбук,дорослі,adults,,1,1,11
-5,фейсбук,дорослі,adults,,1,1,33
-5,фейсбук,дорослі,adults,,1,1,24
-5,фейсбук,дорослі,adults,,1,1,10
-5,фейсбук,дорослі,adults,,1,1,6
-5,фейсбук,дорослі,adults,,1,1,1
-5,фейсбук,дорослі,adults,,1,1,1
-5,фейсбук,дорослі,adults,,1,1,33
-5,фейсбук,дорослі,adults,,1,1,10
-5,фейсбук,дорослі,adults,,1,1,17
-5,фейсбук,дорослі,adults,,1,1,22
-5,фейсбук,дорослі,adults,,1,1,15
-5,фейсбук,дорослі,adults,,1,1,8
-5,фейсбук,дорослі,adults,,1,1,16
-5,фейсбук,дорослі,adults,,1,1,1
-5,фейсбук,дорослі,adults,,1,1,1
-5,фейсбук,дорослі,adults,,1,1,35
-5,фейсбук,дорослі,adults,,1,1,1
-5,фейсбук,дорослі,adults,,1,1,20
-5,фейсбук,дорослі,adults,,1,1,50
-5,фейсбук,дорослі,adults,,1,1,20
-5,фейсбук,дорослі,adults,,1,1,18
-5,фейсбук,дорослі,adults,,1,1,2
-5,фейсбук,дорослі,adults,,1,1,8
-5,фейсбук,дорослі,adults,,1,1,33
-5,фейсбук,дорослі,adults,,1,1,23
-5,фейсбук,дорослі,adults,,1,1,43
-5,фейсбук,дорослі,adults,,1,1,17
-6,коледж,11,TechSchool,технічна,1,1,50
-6,коледж,11,TechSchool,технічна,1,1,65
-6,коледж,11,TechSchool,технічна,1,1,73
-6,коледж,11,TechSchool,технічна,1,1,19
-6,коледж,11,TechSchool,технічна,1,1,50
-6,коледж,11,TechSchool,технічна,1,1,35
-6,коледж,11,TechSchool,технічна,1,1,54
-6,коледж,11,TechSchool,технічна,1,1,41
-6,коледж,11,TechSchool,технічна,1,1,35
-6,коледж,11,TechSchool,технічна,1,1,9
-6,коледж,11,TechSchool,технічна,1,1,1
-6,коледж,11,TechSchool,технічна,1,1,13
-6,коледж,11,TechSchool,технічна,1,1,17
-6,коледж,11,TechSchool,технічна,1,1,69
-6,коледж,11,TechSchool,технічна,1,1,79
-6,коледж,11,TechSchool,технічна,1,1,36
-6,коледж,11,TechSchool,технічна,1,1,69
-6,коледж,11,TechSchool,технічна,1,1,3
-6,коледж,11,TechSchool,технічна,1,1,9
-6,коледж,11,TechSchool,технічна,1,1,59
-6,коледж,11,TechSchool,технічна,1,1,69
-6,коледж,11,TechSchool,технічна,1,1,32
-6,коледж,11,TechSchool,технічна,1,1,50
-6,коледж,11,TechSchool,технічна,1,1,44
-6,коледж,11,TechSchool,технічна,1,1,25
-6,коледж,11,TechSchool,технічна,1,1,97
-6,коледж,11,TechSchool,технічна,1,1,53
-6,коледж,11,TechSchool,технічна,1,1,67
-6,коледж,11,TechSchool,технічна,1,1,59
-6,коледж,11,TechSchool,технічна,1,1,76
-6,коледж,11,TechSchool,технічна,1,1,77
-6,коледж,11,TechSchool,технічна,1,1,1
-6,коледж,11,TechSchool,технічна,1,1,77
-6,коледж,11,TechSchool,технічна,1,1,47
-6,коледж,11,TechSchool,технічна,1,1,5
-6,коледж,11,TechSchool,технічна,1,1,42
-6,коледж,11,TechSchool,технічна,1,1,8
-6,коледж,11,TechSchool,технічна,1,1,99
-6,коледж,11,TechSchool,технічна,1,1,33
-6,коледж,11,TechSchool,технічна,1,1,26
-6,коледж,11,TechSchool,технічна,1,1,45
-6,коледж,11,TechSchool,технічна,1,1,46
-6,коледж,11,TechSchool,технічна,1,1,6
-6,коледж,11,TechSchool,технічна,1,1,30
-6,коледж,11,TechSchool,технічна,1,1,41
-6,коледж,11,TechSchool,технічна,1,1,22
-6,коледж,11,TechSchool,технічна,1,1,60
-6,коледж,11,TechSchool,технічна,1,1,89
-6,коледж,11,TechSchool,технічна,1,1,6
-6,коледж,11,TechSchool,технічна,1,1,50
-6,коледж,11,TechSchool,технічна,1,1,46
-6,коледж,11,TechSchool,технічна,1,2,12
-6,коледж,11,TechSchool,технічна,1,2,35
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,23
-6,коледж,11,TechSchool,технічна,1,2,1
-6,коледж,11,TechSchool,технічна,1,2,13
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,17
-6,коледж,11,TechSchool,технічна,1,2,12
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,69
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,37
-6,коледж,11,TechSchool,технічна,1,2,12
-6,коледж,11,TechSchool,технічна,1,2,8
-6,коледж,11,TechSchool,технічна,1,2,6
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,20
-6,коледж,11,TechSchool,технічна,1,2,22
-6,коледж,11,TechSchool,технічна,1,2,11
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,5
-6,коледж,11,TechSchool,технічна,1,2,42
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,20
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,7
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,13
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,24
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,1
-6,коледж,11,TechSchool,технічна,1,2,15
-6,коледж,11,TechSchool,технічна,1,2,1
-6,коледж,11,TechSchool,технічна,1,2,20
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,17
-6,коледж,11,TechSchool,технічна,1,2,33
-6,коледж,11,TechSchool,технічна,1,2,1
-6,коледж,11,TechSchool,технічна,1,2,18
-6,коледж,11,TechSchool,технічна,1,2,25
-6,коледж,11,TechSchool,технічна,1,2,66
-6,коледж,11,TechSchool,технічна,1,2,32
-6,коледж,11,TechSchool,технічна,1,2,28
-6,коледж,11,TechSchool,технічна,1,2,30
-6,коледж,11,TechSchool,технічна,1,2,27
-6,коледж,11,TechSchool,технічна,1,2,15
-6,коледж,11,TechSchool,технічна,1,2,17
-6,коледж,11,TechSchool,технічна,1,2,39
-6,коледж,11,TechSchool,технічна,1,2,5
-6,коледж,11,TechSchool,технічна,1,2,100
-6,коледж,11,TechSchool,технічна,1,2,33
-6,коледж,11,TechSchool,технічна,1,2,1
-6,коледж,11,TechSchool,технічна,1,2,50
-7,145,7,MathSchool,фіз-мат,1,1,50
-7,145,7,MathSchool,фіз-мат,1,1,65
-7,145,7,MathSchool,фіз-мат,1,1,73
-7,145,7,MathSchool,фіз-мат,1,1,19
-7,145,7,MathSchool,фіз-мат,1,1,50
-7,145,7,MathSchool,фіз-мат,1,1,35
-7,145,7,MathSchool,фіз-мат,1,1,54
-7,145,7,MathSchool,фіз-мат,1,1,41
-7,145,7,MathSchool,фіз-мат,1,1,35
-7,145,7,MathSchool,фіз-мат,1,1,9
-7,145,7,MathSchool,фіз-мат,1,1,1
-7,145,7,MathSchool,фіз-мат,1,1,13
-7,145,7,MathSchool,фіз-мат,1,1,17
-7,145,7,MathSchool,фіз-мат,1,1,69
-7,145,7,MathSchool,фіз-мат,1,1,79
-7,145,7,MathSchool,фіз-мат,1,1,36
-7,145,7,MathSchool,фіз-мат,1,1,69
-7,145,7,MathSchool,фіз-мат,1,1,3
-7,145,7,MathSchool,фіз-мат,1,1,9
-7,145,7,MathSchool,фіз-мат,1,1,59
-7,145,7,MathSchool,фіз-мат,1,1,69
-7,145,7,MathSchool,фіз-мат,1,1,32
-7,145,7,MathSchool,фіз-мат,1,1,50
-7,145,7,MathSchool,фіз-мат,1,1,44
-7,145,7,MathSchool,фіз-мат,1,1,25
-7,145,7,MathSchool,фіз-мат,1,1,97
-7,145,7,MathSchool,фіз-мат,1,1,53
-7,145,7,MathSchool,фіз-мат,1,1,67
-7,145,7,MathSchool,фіз-мат,1,1,59
-7,145,7,MathSchool,фіз-мат,1,1,76
-7,145,7,MathSchool,фіз-мат,1,1,77
-7,145,7,MathSchool,фіз-мат,1,1,1
-7,145,7,MathSchool,фіз-мат,1,1,77
-7,145,7,MathSchool,фіз-мат,1,1,47
-7,145,7,MathSchool,фіз-мат,1,1,5
-7,145,7,MathSchool,фіз-мат,1,1,42
-7,145,7,MathSchool,фіз-мат,1,1,8
-7,145,7,MathSchool,фіз-мат,1,1,99
-7,145,7,MathSchool,фіз-мат,1,1,33
-7,145,7,MathSchool,фіз-мат,1,1,26
-7,145,7,MathSchool,фіз-мат,1,1,45
-7,145,7,MathSchool,фіз-мат,1,1,46
-7,145,7,MathSchool,фіз-мат,1,1,6
-7,145,7,MathSchool,фіз-мат,1,1,30
-7,145,7,MathSchool,фіз-мат,1,1,41
-7,145,7,MathSchool,фіз-мат,1,1,22
-7,145,7,MathSchool,фіз-мат,1,1,60
-7,145,7,MathSchool,фіз-мат,1,1,89
-7,145,7,MathSchool,фіз-мат,1,1,6
-7,145,7,MathSchool,фіз-мат,1,1,50
-7,145,7,MathSchool,фіз-мат,1,1,46
-8,145,9,MathSchool,фіз-мат,1,1,100
-8,145,9,MathSchool,фіз-мат,1,1,33
-8,145,9,MathSchool,фіз-мат,1,1,33
-8,145,9,MathSchool,фіз-мат,1,1,37
-8,145,9,MathSchool,фіз-мат,1,1,21
-8,145,9,MathSchool,фіз-мат,1,1,33
-8,145,9,MathSchool,фіз-мат,1,1,55
-8,145,9,MathSchool,фіз-мат,1,1,18
-8,145,9,MathSchool,фіз-мат,1,1,27
-8,145,9,MathSchool,фіз-мат,1,1,47
-8,145,9,MathSchool,фіз-мат,1,1,15
-8,145,9,MathSchool,фіз-мат,1,1,72
-8,145,9,MathSchool,фіз-мат,1,1,4
-8,145,9,MathSchool,фіз-мат,1,1,77
-8,145,9,MathSchool,фіз-мат,1,1,3
-8,145,9,MathSchool,фіз-мат,1,1,28
-8,145,9,MathSchool,фіз-мат,1,1,65
-8,145,9,MathSchool,фіз-мат,1,1,36
-8,145,9,MathSchool,фіз-мат,1,1,87
-8,145,9,MathSchool,фіз-мат,1,1,38
-8,145,9,MathSchool,фіз-мат,1,1,22
-8,145,9,MathSchool,фіз-мат,1,1,55
-8,145,9,MathSchool,фіз-мат,1,1,17
-8,145,9,MathSchool,фіз-мат,1,1,26
-8,145,9,MathSchool,фіз-мат,1,1,7
-8,145,9,MathSchool,фіз-мат,1,1,64
-8,145,9,MathSchool,фіз-мат,1,1,1
-8,145,9,MathSchool,фіз-мат,1,1,50
-8,145,9,MathSchool,фіз-мат,1,1,37
-8,145,9,MathSchool,фіз-мат,1,1,15
-8,145,9,MathSchool,фіз-мат,1,1,19
-8,145,9,MathSchool,фіз-мат,1,1,25
-8,145,9,MathSchool,фіз-мат,1,1,4
-8,145,9,MathSchool,фіз-мат,1,1,42
-8,145,9,MathSchool,фіз-мат,1,1,28
-8,145,9,MathSchool,фіз-мат,1,1,27
-8,145,9,MathSchool,фіз-мат,1,1,22
-8,145,9,MathSchool,фіз-мат,1,1,1
-8,145,9,MathSchool,фіз-мат,1,1,23
-8,145,9,MathSchool,фіз-мат,1,1,33
-8,145,9,MathSchool,фіз-мат,1,1,22
-8,145,9,MathSchool,фіз-мат,1,1,33
-8,145,9,MathSchool,фіз-мат,1,1,48
-8,145,9,MathSchool,фіз-мат,1,1,5
-8,145,9,MathSchool,фіз-мат,1,1,4
-8,145,9,MathSchool,фіз-мат,1,1,34
-8,145,9,MathSchool,фіз-мат,1,1,33
-8,145,9,MathSchool,фіз-мат,1,1,1
-8,145,9,MathSchool,фіз-мат,1,1,1
-8,145,9,MathSchool,фіз-мат,1,1,1
-8,145,9,MathSchool,фіз-мат,1,2,8
-8,145,9,MathSchool,фіз-мат,1,2,1
-8,145,9,MathSchool,фіз-мат,1,2,1
-8,145,9,MathSchool,фіз-мат,1,2,1
-8,145,9,MathSchool,фіз-мат,1,2,1
-8,145,9,MathSchool,фіз-мат,1,2,1
-8,145,9,MathSchool,фіз-мат,1,2,1
-8,145,9,MathSchool,фіз-мат,1,2,1
-8,145,9,MathSchool,фіз-мат,1,2,12
-8,145,9,MathSchool,фіз-мат,1,2,4
-8,145,9,MathSchool,фіз-мат,1,2,7
-8,145,9,MathSchool,фіз-мат,1,2,100
-8,145,9,MathSchool,фіз-мат,1,2,4
-8,145,9,MathSchool,фіз-мат,1,2,2
-8,145,9,MathSchool,фіз-мат,1,2,2
-8,145,9,MathSchool,фіз-мат,1,2,1
-8,145,9,MathSchool,фіз-мат,1,2,17
-8,145,9,MathSchool,фіз-мат,1,2,4
-8,145,9,MathSchool,фіз-мат,1,2,3
-8,145,9,MathSchool,фіз-мат,1,2,27
-8,145,9,MathSchool,фіз-мат,1,2,3
-8,145,9,MathSchool,фіз-мат,1,2,2
-8,145,9,MathSchool,фіз-мат,1,2,3
-8,145,9,MathSchool,фіз-мат,1,2,3
-8,145,9,MathSchool,фіз-мат,1,2,33
-8,145,9,MathSchool,фіз-мат,1,2,26
-8,145,9,MathSchool,фіз-мат,1,2,9
-8,145,9,MathSchool,фіз-мат,1,2,8
-8,145,9,MathSchool,фіз-мат,1,2,33
-8,145,9,MathSchool,фіз-мат,1,2,12
-8,145,9,MathSchool,фіз-мат,1,2,3
-8,145,9,MathSchool,фіз-мат,1,2,5
-8,145,9,MathSchool,фіз-мат,1,2,11
-8,145,9,MathSchool,фіз-мат,1,2,5
-8,145,9,MathSchool,фіз-мат,1,2,4
-8,145,9,MathSchool,фіз-мат,1,2,10
-8,145,9,MathSchool,фіз-мат,1,2,11
-8,145,9,MathSchool,фіз-мат,1,2,14
-8,145,9,MathSchool,фіз-мат,1,2,94
-8,145,9,MathSchool,фіз-мат,1,2,16
-8,145,9,MathSchool,фіз-мат,1,2,8
-8,145,9,MathSchool,фіз-мат,1,2,7
-8,145,9,MathSchool,фіз-мат,1,2,42
-8,145,9,MathSchool,фіз-мат,1,2,4
-8,145,9,MathSchool,фіз-мат,1,2,1
-8,145,9,MathSchool,фіз-мат,1,2,13
-8,145,9,MathSchool,фіз-мат,1,2,5
-8,145,9,MathSchool,фіз-мат,1,2,5
-8,145,9,MathSchool,фіз-мат,1,2,27
-8,145,9,MathSchool,фіз-мат,1,2,3
-8,145,9,MathSchool,фіз-мат,1,2,100
-8,145,9,MathSchool,фіз-мат,1,2,22
-8,145,9,MathSchool,фіз-мат,1,2,16
-8,145,9,MathSchool,фіз-мат,1,2,28
-8,145,9,MathSchool,фіз-мат,1,2,13
-8,145,9,MathSchool,фіз-мат,1,2,15
-8,145,9,MathSchool,фіз-мат,1,2,1
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,20
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,30
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,66
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,43
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,67
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,28
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,66
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,50
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,17
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,33
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,28
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,30
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,30
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,35
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,33
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,25
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,1
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,35
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,4
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,27
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,11
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,34
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,66
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,33
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,50
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,66
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,31
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,99
-9,Русанівський,7-8,MathSchool,фіз-мат,1,1,17
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,20
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,28
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,17
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,38
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,3
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,44
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,9
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,26
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,3
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,5
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,1
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,25
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,12
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,14
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,10
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,13
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,30
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,13
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,16
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,13
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,6
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,44
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,100
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,9
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,50
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,25
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,21
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,66
-9,Русанівський,7-8,MathSchool,фіз-мат,1,2,99
-10,130,7-8,MathSchool,гуманітарні,1,1,6
-10,130,7-8,MathSchool,гуманітарні,1,1,77
-10,130,7-8,MathSchool,гуманітарні,1,1,51
-10,130,7-8,MathSchool,гуманітарні,1,1,23
-10,130,7-8,MathSchool,гуманітарні,1,1,27
-10,130,7-8,MathSchool,гуманітарні,1,1,50
-10,130,7-8,MathSchool,гуманітарні,1,1,15
-10,130,7-8,MathSchool,гуманітарні,1,1,99
-10,130,7-8,MathSchool,гуманітарні,1,1,99
-10,130,7-8,MathSchool,гуманітарні,1,1,35
-10,130,7-8,MathSchool,гуманітарні,1,1,17
-10,130,7-8,MathSchool,гуманітарні,1,1,51
-10,130,7-8,MathSchool,гуманітарні,1,1,51
-10,130,7-8,MathSchool,гуманітарні,1,1,51
-10,130,7-8,MathSchool,гуманітарні,1,1,51
-10,130,7-8,MathSchool,гуманітарні,1,1,26
-10,130,7-8,MathSchool,гуманітарні,1,1,22
-10,130,7-8,MathSchool,гуманітарні,1,1,5
-10,130,7-8,MathSchool,гуманітарні,1,2,27
-10,130,7-8,MathSchool,гуманітарні,1,2,1
-10,130,7-8,MathSchool,гуманітарні,1,2,17
-10,130,7-8,MathSchool,гуманітарні,1,2,19
-10,130,7-8,MathSchool,гуманітарні,1,2,13
-10,130,7-8,MathSchool,гуманітарні,1,2,37
-10,130,7-8,MathSchool,гуманітарні,1,2,25
-10,130,7-8,MathSchool,гуманітарні,1,2,32
-10,130,7-8,MathSchool,гуманітарні,1,2,18
-10,130,7-8,MathSchool,гуманітарні,1,2,15
-10,130,7-8,MathSchool,гуманітарні,1,2,9
-10,130,7-8,MathSchool,гуманітарні,1,2,57
-10,130,7-8,MathSchool,гуманітарні,1,2,27
-10,130,7-8,MathSchool,гуманітарні,1,2,19
-10,130,7-8,MathSchool,гуманітарні,1,2,9
-10,130,7-8,MathSchool,гуманітарні,1,2,28
-10,130,7-8,MathSchool,гуманітарні,1,2,47
-10,130,7-8,MathSchool,гуманітарні,1,2,29
-10,130,7-8,MathSchool,гуманітарні,1,2,16
-10,130,7-8,MathSchool,гуманітарні,1,2,17
-11,208,7-8,ordinarySchool,фіз-мат,1,1,48
-11,208,7-8,ordinarySchool,фіз-мат,1,1,42
-11,208,7-8,ordinarySchool,фіз-мат,1,1,45
-11,208,7-8,ordinarySchool,фіз-мат,1,1,66
-11,208,7-8,ordinarySchool,фіз-мат,1,1,30
-11,208,7-8,ordinarySchool,фіз-мат,1,1,88
-11,208,7-8,ordinarySchool,фіз-мат,1,1,28
-11,208,7-8,ordinarySchool,фіз-мат,1,1,66
-11,208,7-8,ordinarySchool,фіз-мат,1,1,51
-11,208,7-8,ordinarySchool,фіз-мат,1,1,63
-11,208,7-8,ordinarySchool,фіз-мат,1,1,27
-11,208,7-8,ordinarySchool,фіз-мат,1,1,53
-11,208,7-8,ordinarySchool,фіз-мат,1,1,30
-11,208,7-8,ordinarySchool,фіз-мат,1,1,56
-11,208,7-8,ordinarySchool,фіз-мат,1,1,21
-11,208,7-8,ordinarySchool,фіз-мат,1,1,33
-11,208,7-8,ordinarySchool,фіз-мат,1,1,90
-11,208,7-8,ordinarySchool,фіз-мат,1,1,67
-11,208,7-8,ordinarySchool,фіз-мат,1,1,33
-11,208,7-8,ordinarySchool,фіз-мат,1,1,75
-11,208,7-8,ordinarySchool,фіз-мат,1,1,90
-11,208,7-8,ordinarySchool,фіз-мат,1,1,90
-11,208,7-8,ordinarySchool,фіз-мат,1,1,1
-11,208,7-8,ordinarySchool,фіз-мат,1,1,1
-11,208,7-8,ordinarySchool,фіз-мат,1,1,30
-11,208,7-8,ordinarySchool,фіз-мат,1,1,42
-11,208,7-8,ordinarySchool,фіз-мат,1,2,22
-11,208,7-8,ordinarySchool,фіз-мат,1,2,11
-11,208,7-8,ordinarySchool,фіз-мат,1,2,11
-11,208,7-8,ordinarySchool,фіз-мат,1,2,23
-11,208,7-8,ordinarySchool,фіз-мат,1,2,6
-11,208,7-8,ordinarySchool,фіз-мат,1,2,20
-11,208,7-8,ordinarySchool,фіз-мат,1,2,1
-11,208,7-8,ordinarySchool,фіз-мат,1,2,22
-11,208,7-8,ordinarySchool,фіз-мат,1,2,3
-11,208,7-8,ordinarySchool,фіз-мат,1,2,5
-11,208,7-8,ordinarySchool,фіз-мат,1,2,32
-11,208,7-8,ordinarySchool,фіз-мат,1,2,17
-11,208,7-8,ordinarySchool,фіз-мат,1,2,23
-11,208,7-8,ordinarySchool,фіз-мат,1,2,33
-11,208,7-8,ordinarySchool,фіз-мат,1,2,32
-11,208,7-8,ordinarySchool,фіз-мат,1,2,22
-11,208,7-8,ordinarySchool,фіз-мат,1,2,7
-11,208,7-8,ordinarySchool,фіз-мат,1,2,44
-11,208,7-8,ordinarySchool,фіз-мат,1,2,33
-11,208,7-8,ordinarySchool,фіз-мат,1,2,22
-11,208,7-8,ordinarySchool,фіз-мат,1,2,22
-11,208,7-8,ordinarySchool,фіз-мат,1,2,22
-11,208,7-8,ordinarySchool,фіз-мат,1,2,22
-12,DSSchool,дорослі,adults,,1,1,25
-12,DSSchool,дорослі,adults,,1,1,3
-12,DSSchool,дорослі,adults,,1,1,1
-12,DSSchool,дорослі,adults,,1,1,17
-12,DSSchool,дорослі,adults,,1,1,42
-12,DSSchool,дорослі,adults,,1,1,38
-12,DSSchool,дорослі,adults,,1,1,66
-12,DSSchool,дорослі,adults,,1,1,47
-12,DSSchool,дорослі,adults,,1,1,69
-12,DSSchool,дорослі,adults,,1,1,6
-12,DSSchool,дорослі,adults,,1,1,77
-12,DSSchool,дорослі,adults,,1,1,32
-12,DSSchool,дорослі,adults,,1,1,55
-12,DSSchool,дорослі,adults,,1,1,18
-12,DSSchool,дорослі,adults,,1,1,34
-12,DSSchool,дорослі,adults,,1,1,50
-12,DSSchool,дорослі,adults,,1,1,45
-12,DSSchool,дорослі,adults,,1,1,8
-12,DSSchool,дорослі,adults,,1,1,52
-12,DSSchool,дорослі,adults,,1,1,51
-12,DSSchool,дорослі,adults,,1,1,14
-12,DSSchool,дорослі,adults,,1,1,30
-12,DSSchool,дорослі,adults,,1,1,70
-12,DSSchool,дорослі,adults,,1,1,66
-12,DSSchool,дорослі,adults,,1,1,31
-12,DSSchool,дорослі,adults,,1,1,49
-12,DSSchool,дорослі,adults,,1,1,34
-12,DSSchool,дорослі,adults,,1,1,53
-12,DSSchool,дорослі,adults,,1,1,33
-12,DSSchool,дорослі,adults,,1,1,24
-12,DSSchool,дорослі,adults,,1,1,58
-12,DSSchool,дорослі,adults,,1,1,9
-12,DSSchool,дорослі,adults,,1,1,1
-12,DSSchool,дорослі,adults,,1,1,1
-12,DSSchool,дорослі,adults,,1,1,17
-12,DSSchool,дорослі,adults,,1,1,30
-12,DSSchool,дорослі,adults,,1,1,20
-12,DSSchool,дорослі,adults,,1,1,51
-12,DSSchool,дорослі,adults,,1,1,67
-12,DSSchool,дорослі,adults,,1,1,17
-12,DSSchool,дорослі,adults,,1,1,100
-12,DSSchool,дорослі,adults,,1,1,22
-12,DSSchool,дорослі,adults,,1,1,44
-12,DSSchool,дорослі,adults,,1,1,30
-12,DSSchool,дорослі,adults,,1,1,99
-12,DSSchool,дорослі,adults,,1,1,30
-12,DSSchool,дорослі,adults,,1,1,9
-12,DSSchool,дорослі,adults,,1,1,100
-12,DSSchool,дорослі,adults,,1,1,1
-12,DSSchool,дорослі,adults,,1,1,33
-12,DSSchool,дорослі,adults,,1,1,15
-12,DSSchool,дорослі,adults,,1,1,10
-12,DSSchool,дорослі,adults,,1,1,100
-12,DSSchool,дорослі,adults,,1,1,35
-12,DSSchool,дорослі,adults,,1,1,33
-12,DSSchool,дорослі,adults,,1,1,15
-12,DSSchool,дорослі,adults,,1,1,1
-12,DSSchool,дорослі,adults,,1,1,100
-12,DSSchool,дорослі,adults,,1,1,34
-12,DSSchool,дорослі,adults,,1,1,13
-12,DSSchool,дорослі,adults,,1,2,4
-12,DSSchool,дорослі,adults,,1,2,5
-12,DSSchool,дорослі,adults,,1,2,1
-12,DSSchool,дорослі,adults,,1,2,18
-12,DSSchool,дорослі,adults,,1,2,7
-12,DSSchool,дорослі,adults,,1,2,17
-12,DSSchool,дорослі,adults,,1,2,1
-12,DSSchool,дорослі,adults,,1,2,29
-12,DSSchool,дорослі,adults,,1,2,1
-12,DSSchool,дорослі,adults,,1,2,1
-12,DSSchool,дорослі,adults,,1,2,1
-12,DSSchool,дорослі,adults,,1,2,1
-12,DSSchool,дорослі,adults,,1,2,2
-12,DSSchool,дорослі,adults,,1,2,11
-12,DSSchool,дорослі,adults,,1,2,11
-12,DSSchool,дорослі,adults,,1,2,5
-12,DSSchool,дорослі,adults,,1,2,2
-12,DSSchool,дорослі,adults,,1,2,13
-12,DSSchool,дорослі,adults,,1,2,100
-12,DSSchool,дорослі,adults,,1,2,6
-12,DSSchool,дорослі,adults,,1,2,9
-12,DSSchool,дорослі,adults,,1,2,2
-12,DSSchool,дорослі,adults,,1,2,24
-12,DSSchool,дорослі,adults,,1,2,66
-12,DSSchool,дорослі,adults,,1,2,15
-12,DSSchool,дорослі,adults,,1,2,2
-12,DSSchool,дорослі,adults,,1,2,1
-12,DSSchool,дорослі,adults,,1,2,1
-12,DSSchool,дорослі,adults,,1,2,1
-12,DSSchool,дорослі,adults,,1,2,4.5
-12,DSSchool,дорослі,adults,,1,2,7
-12,DSSchool,дорослі,adults,,1,2,1
-12,DSSchool,дорослі,adults,,1,2,9
-12,DSSchool,дорослі,adults,,1,2,100
-12,DSSchool,дорослі,adults,,1,2,100
-12,DSSchool,дорослі,adults,,1,2,55
-12,DSSchool,дорослі,adults,,1,2,100
-12,DSSchool,дорослі,adults,,1,2,13
-12,DSSchool,дорослі,adults,,1,2,5
-12,DSSchool,дорослі,adults,,1,2,8
-12,DSSchool,дорослі,adults,,1,2,25
-12,DSSchool,дорослі,adults,,1,2,1
-12,DSSchool,дорослі,adults,,1,2,100
-12,DSSchool,дорослі,adults,,1,2,6
-12,DSSchool,дорослі,adults,,1,2,1
-12,DSSchool,дорослі,adults,,1,2,19
-12,DSSchool,дорослі,adults,,1,2,13
-12,DSSchool,дорослі,adults,,1,2,100
-12,DSSchool,дорослі,adults,,1,2,14
-12,DSSchool,дорослі,adults,,1,2,9
-12,DSSchool,дорослі,adults,,1,2,11
-12,DSSchool,дорослі,adults,,1,2,1
-12,DSSchool,дорослі,adults,,1,2,12
-12,DSSchool,дорослі,adults,,1,2,100
-12,DSSchool,дорослі,adults,,1,2,13
-12,DSSchool,дорослі,adults,,1,2,15
-12,DSSchool,дорослі,adults,,1,2,23
-13,ІПСА ,студенти ,students,,1,1,84
-13,ІПСА ,студенти ,students,,1,1,23
-13,ІПСА ,студенти ,students,,1,1,70
-13,ІПСА ,студенти ,students,,1,1,25
-13,ІПСА ,студенти ,students,,1,1,1
-13,ІПСА ,студенти ,students,,1,1,100
-13,ІПСА ,студенти ,students,,1,1,67
-13,ІПСА ,студенти ,students,,1,1,45
-13,ІПСА ,студенти ,students,,1,1,50
-13,ІПСА ,студенти ,students,,1,1,57
-13,ІПСА ,студенти ,students,,1,1,1
-13,ІПСА ,студенти ,students,,1,1,66
-13,ІПСА ,студенти ,students,,1,1,36
-13,ІПСА ,студенти ,students,,1,1,47
-13,ІПСА ,студенти ,students,,1,1,45
-13,ІПСА ,студенти ,students,,1,1,51
-13,ІПСА ,студенти ,students,,1,1,24
-13,ІПСА ,студенти ,students,,1,1,18
-13,ІПСА ,студенти ,students,,1,1,40
-13,ІПСА ,студенти ,students,,1,1,25
-13,ІПСА ,студенти ,students,,1,1,21
-13,ІПСА ,студенти ,students,,1,1,3
-13,ІПСА ,студенти ,students,,1,1,40
-13,ІПСА ,студенти ,students,,1,1,11
-13,ІПСА ,студенти ,students,,1,1,88
-13,ІПСА ,студенти ,students,,1,1,84
-13,ІПСА ,студенти ,students,,1,1,23
-14,НАУКМА,студенти ,students,,1,1,26
-14,НАУКМА,студенти ,students,,1,1,10
-14,НАУКМА,студенти ,students,,1,1,11
-14,НАУКМА,студенти ,students,,1,1,18
-14,НАУКМА,студенти ,students,,1,1,30
-14,НАУКМА,студенти ,students,,1,1,25
-14,НАУКМА,студенти ,students,,1,1,69
-14,НАУКМА,студенти ,students,,1,1,30
-14,НАУКМА,студенти ,students,,1,2,14
-14,НАУКМА,студенти ,students,,1,2,9
-14,НАУКМА,студенти ,students,,1,2,7
-14,НАУКМА,студенти ,students,,1,2,10
-14,НАУКМА,студенти ,students,,1,2,8
-14,НАУКМА,студенти ,students,,1,2,12
-14,НАУКМА,студенти ,students,,1,2,1
-14,НАУКМА,студенти ,students,,1,2,8
+id,name,age,type,profile,round,choice
+1,майбутні,6-7,Alternative humanitarian,школа,1,5
+1,майбутні,6-7,Alternative humanitarian,школа,1,5
+1,майбутні,6-7,Alternative humanitarian,школа,1,6
+1,майбутні,6-7,Alternative humanitarian,школа,1,49
+1,майбутні,6-7,Alternative humanitarian,школа,1,61
+1,майбутні,6-7,Alternative humanitarian,школа,1,70
+1,майбутні,6-7,Alternative humanitarian,школа,1,78
+1,майбутні,6-7,Alternative humanitarian,школа,1,95
+1,майбутні,6-7,Alternative humanitarian,школа,1,99
+1,майбутні,6-7,Alternative humanitarian,школа,1,99
+1,майбутні,6-7,Alternative humanitarian,школа,1,100
+1,майбутні,6-7,Alternative humanitarian,школа,1,100
+1,майбутні,6-7,Alternative humanitarian,школа,1,100
+1,майбутні,6-7,Alternative humanitarian,школа,2,4
+1,майбутні,6-7,Alternative humanitarian,школа,2,3
+1,майбутні,6-7,Alternative humanitarian,школа,2,5
+1,майбутні,6-7,Alternative humanitarian,школа,2,3
+1,майбутні,6-7,Alternative humanitarian,школа,2,1
+1,майбутні,6-7,Alternative humanitarian,школа,2,2
+1,майбутні,6-7,Alternative humanitarian,школа,2,4
+1,майбутні,6-7,Alternative humanitarian,школа,2,3
+1,майбутні,6-7,Alternative humanitarian,школа,2,3
+1,майбутні,6-7,Alternative humanitarian,школа,2,4
+1,майбутні,6-7,Alternative humanitarian,школа,2,4
+1,майбутні,6-7,Alternative humanitarian,школа,2,11
+1,майбутні,6-7,Alternative humanitarian,школа,3,3
+1,майбутні,6-7,Alternative humanitarian,школа,3,2
+1,майбутні,6-7,Alternative humanitarian,школа,3,1
+1,майбутні,6-7,Alternative humanitarian,школа,3,1
+1,майбутні,6-7,Alternative humanitarian,школа,3,2
+1,майбутні,6-7,Alternative humanitarian,школа,3,9
+1,майбутні,6-7,Alternative humanitarian,школа,3,7
+1,майбутні,6-7,Alternative humanitarian,школа,3,2
+1,майбутні,6-7,Alternative humanitarian,школа,3,2
+1,майбутні,6-7,Alternative humanitarian,школа,3,2
+1,майбутні,6-7,Alternative humanitarian,школа,3,2
+1,майбутні,6-7,Alternative humanitarian,школа,3,4
+1,майбутні,6-7,Alternative humanitarian,школа,3,3
+2,цифра,6,Alternative mathematical,школа,1,50
+2,цифра,6,Alternative mathematical,школа,1,45
+2,цифра,6,Alternative mathematical,школа,1,51
+2,цифра,6,Alternative mathematical,школа,1,32
+2,цифра,6,Alternative mathematical,школа,1,26
+2,цифра,6,Alternative mathematical,школа,1,33
+2,цифра,6,Alternative mathematical,школа,1,50
+2,цифра,6,Alternative mathematical,школа,1,45
+2,цифра,6,Alternative mathematical,школа,1,49
+2,цифра,6,Alternative mathematical,школа,1,57
+2,цифра,6,Alternative mathematical,школа,1,20
+2,цифра,6,Alternative mathematical,школа,1,3
+2,цифра,6,Alternative mathematical,школа,1,33
+2,цифра,6,Alternative mathematical,школа,1,77
+2,цифра,6,Alternative mathematical,школа,1,50
+2,цифра,6,Alternative mathematical,школа,1,29
+2,цифра,6,Alternative mathematical,школа,1,78
+2,цифра,6,Alternative mathematical,школа,2,24
+2,цифра,6,Alternative mathematical,школа,2,24
+2,цифра,6,Alternative mathematical,школа,2,34
+2,цифра,6,Alternative mathematical,школа,2,30
+2,цифра,6,Alternative mathematical,школа,2,27
+2,цифра,6,Alternative mathematical,школа,2,18
+2,цифра,6,Alternative mathematical,школа,2,27
+2,цифра,6,Alternative mathematical,школа,2,30
+2,цифра,6,Alternative mathematical,школа,2,27
+2,цифра,6,Alternative mathematical,школа,2,17
+2,цифра,6,Alternative mathematical,школа,2,14
+2,цифра,6,Alternative mathematical,школа,2,18
+2,цифра,6,Alternative mathematical,школа,2,18
+2,цифра,6,Alternative mathematical,школа,2,29
+2,цифра,6,Alternative mathematical,школа,2,27
+2,цифра,6,Alternative mathematical,школа,2,26
+3,прозорро,дорослі,Adults,,1,24
+3,прозорро,дорослі,Adults,,1,13
+3,прозорро,дорослі,Adults,,1,99
+3,прозорро,дорослі,Adults,,1,55
+3,прозорро,дорослі,Adults,,1,55
+3,прозорро,дорослі,Adults,,1,35
+3,прозорро,дорослі,Adults,,1,50
+3,прозорро,дорослі,Adults,,1,55
+3,прозорро,дорослі,Adults,,1,77
+3,прозорро,дорослі,Adults,,1,19
+3,прозорро,дорослі,Adults,,1,22
+3,прозорро,дорослі,Adults,,1,33
+3,прозорро,дорослі,Adults,,1,30
+3,прозорро,дорослі,Adults,,1,59
+3,прозорро,дорослі,Adults,,1,6
+3,прозорро,дорослі,Adults,,1,42
+3,прозорро,дорослі,Adults,,1,10
+3,прозорро,дорослі,Adults,,1,47
+3,прозорро,дорослі,Adults,,1,40
+4,майбутні,6-7,Alternative humanitarian,школа,1,50
+4,майбутні,6-7,Alternative humanitarian,школа,1,55
+4,майбутні,6-7,Alternative humanitarian,школа,1,53
+4,майбутні,6-7,Alternative humanitarian,школа,1,8
+4,майбутні,6-7,Alternative humanitarian,школа,1,65
+4,майбутні,6-7,Alternative humanitarian,школа,1,98
+4,майбутні,6-7,Alternative humanitarian,школа,1,72
+4,майбутні,6-7,Alternative humanitarian,школа,1,50
+4,майбутні,6-7,Alternative humanitarian,школа,1,55
+4,майбутні,6-7,Alternative humanitarian,школа,1,4
+4,майбутні,6-7,Alternative humanitarian,школа,1,68
+4,майбутні,6-7,Alternative humanitarian,школа,2,1
+4,майбутні,6-7,Alternative humanitarian,школа,2,19
+4,майбутні,6-7,Alternative humanitarian,школа,2,7
+4,майбутні,6-7,Alternative humanitarian,школа,2,14
+4,майбутні,6-7,Alternative humanitarian,школа,2,5
+4,майбутні,6-7,Alternative humanitarian,школа,2,1
+4,майбутні,6-7,Alternative humanitarian,школа,2,2
+4,майбутні,6-7,Alternative humanitarian,школа,2,1
+4,майбутні,6-7,Alternative humanitarian,школа,2,22
+4,майбутні,6-7,Alternative humanitarian,школа,2,11
+4,майбутні,6-7,Alternative humanitarian,школа,2,2
+4,майбутні,6-7,Alternative humanitarian,школа,2,100
+5,фейсбук,дорослі,Adults (facebook online),,1,21
+5,фейсбук,дорослі,Adults (facebook online),,1,10
+5,фейсбук,дорослі,Adults (facebook online),,1,33
+5,фейсбук,дорослі,Adults (facebook online),,1,3
+5,фейсбук,дорослі,Adults (facebook online),,1,11
+5,фейсбук,дорослі,Adults (facebook online),,1,83
+5,фейсбук,дорослі,Adults (facebook online),,1,67
+5,фейсбук,дорослі,Adults (facebook online),,1,22
+5,фейсбук,дорослі,Adults (facebook online),,1,1
+5,фейсбук,дорослі,Adults (facebook online),,1,11
+5,фейсбук,дорослі,Adults (facebook online),,1,17
+5,фейсбук,дорослі,Adults (facebook online),,1,50
+5,фейсбук,дорослі,Adults (facebook online),,1,37
+5,фейсбук,дорослі,Adults (facebook online),,1,24
+5,фейсбук,дорослі,Adults (facebook online),,1,17
+5,фейсбук,дорослі,Adults (facebook online),,1,49
+5,фейсбук,дорослі,Adults (facebook online),,1,18
+5,фейсбук,дорослі,Adults (facebook online),,1,27
+5,фейсбук,дорослі,Adults (facebook online),,1,3
+5,фейсбук,дорослі,Adults (facebook online),,1,22
+5,фейсбук,дорослі,Adults (facebook online),,1,10
+5,фейсбук,дорослі,Adults (facebook online),,1,77
+5,фейсбук,дорослі,Adults (facebook online),,1,3
+5,фейсбук,дорослі,Adults (facebook online),,1,15
+5,фейсбук,дорослі,Adults (facebook online),,1,1
+5,фейсбук,дорослі,Adults (facebook online),,1,33
+5,фейсбук,дорослі,Adults (facebook online),,1,6
+5,фейсбук,дорослі,Adults (facebook online),,1,50
+5,фейсбук,дорослі,Adults (facebook online),,1,69
+5,фейсбук,дорослі,Adults (facebook online),,1,62
+5,фейсбук,дорослі,Adults (facebook online),,1,27
+5,фейсбук,дорослі,Adults (facebook online),,1,17
+5,фейсбук,дорослі,Adults (facebook online),,1,32
+5,фейсбук,дорослі,Adults (facebook online),,1,25
+5,фейсбук,дорослі,Adults (facebook online),,1,66
+5,фейсбук,дорослі,Adults (facebook online),,1,5
+5,фейсбук,дорослі,Adults (facebook online),,1,33
+5,фейсбук,дорослі,Adults (facebook online),,1,1
+5,фейсбук,дорослі,Adults (facebook online),,1,33
+5,фейсбук,дорослі,Adults (facebook online),,1,17
+5,фейсбук,дорослі,Adults (facebook online),,1,35
+5,фейсбук,дорослі,Adults (facebook online),,1,52
+5,фейсбук,дорослі,Adults (facebook online),,1,50
+5,фейсбук,дорослі,Adults (facebook online),,1,17
+5,фейсбук,дорослі,Adults (facebook online),,1,3
+5,фейсбук,дорослі,Adults (facebook online),,1,17
+5,фейсбук,дорослі,Adults (facebook online),,1,25
+5,фейсбук,дорослі,Adults (facebook online),,1,12
+5,фейсбук,дорослі,Adults (facebook online),,1,19
+5,фейсбук,дорослі,Adults (facebook online),,1,16
+5,фейсбук,дорослі,Adults (facebook online),,1,22
+5,фейсбук,дорослі,Adults (facebook online),,1,2
+5,фейсбук,дорослі,Adults (facebook online),,1,5
+5,фейсбук,дорослі,Adults (facebook online),,1,11
+5,фейсбук,дорослі,Adults (facebook online),,1,87
+5,фейсбук,дорослі,Adults (facebook online),,1,1
+5,фейсбук,дорослі,Adults (facebook online),,1,17
+5,фейсбук,дорослі,Adults (facebook online),,1,1
+5,фейсбук,дорослі,Adults (facebook online),,1,6
+5,фейсбук,дорослі,Adults (facebook online),,1,51
+5,фейсбук,дорослі,Adults (facebook online),,1,13
+5,фейсбук,дорослі,Adults (facebook online),,1,2
+5,фейсбук,дорослі,Adults (facebook online),,1,1
+5,фейсбук,дорослі,Adults (facebook online),,1,33
+5,фейсбук,дорослі,Adults (facebook online),,1,55
+5,фейсбук,дорослі,Adults (facebook online),,1,1
+5,фейсбук,дорослі,Adults (facebook online),,1,66
+5,фейсбук,дорослі,Adults (facebook online),,1,3
+5,фейсбук,дорослі,Adults (facebook online),,1,11
+5,фейсбук,дорослі,Adults (facebook online),,1,17
+5,фейсбук,дорослі,Adults (facebook online),,1,15
+5,фейсбук,дорослі,Adults (facebook online),,1,15
+5,фейсбук,дорослі,Adults (facebook online),,1,66
+5,фейсбук,дорослі,Adults (facebook online),,1,10
+5,фейсбук,дорослі,Adults (facebook online),,1,11
+5,фейсбук,дорослі,Adults (facebook online),,1,33
+5,фейсбук,дорослі,Adults (facebook online),,1,24
+5,фейсбук,дорослі,Adults (facebook online),,1,10
+5,фейсбук,дорослі,Adults (facebook online),,1,6
+5,фейсбук,дорослі,Adults (facebook online),,1,1
+5,фейсбук,дорослі,Adults (facebook online),,1,1
+5,фейсбук,дорослі,Adults (facebook online),,1,33
+5,фейсбук,дорослі,Adults (facebook online),,1,10
+5,фейсбук,дорослі,Adults (facebook online),,1,17
+5,фейсбук,дорослі,Adults (facebook online),,1,22
+5,фейсбук,дорослі,Adults (facebook online),,1,15
+5,фейсбук,дорослі,Adults (facebook online),,1,8
+5,фейсбук,дорослі,Adults (facebook online),,1,16
+5,фейсбук,дорослі,Adults (facebook online),,1,1
+5,фейсбук,дорослі,Adults (facebook online),,1,1
+5,фейсбук,дорослі,Adults (facebook online),,1,35
+5,фейсбук,дорослі,Adults (facebook online),,1,1
+5,фейсбук,дорослі,Adults (facebook online),,1,20
+5,фейсбук,дорослі,Adults (facebook online),,1,50
+5,фейсбук,дорослі,Adults (facebook online),,1,20
+5,фейсбук,дорослі,Adults (facebook online),,1,18
+5,фейсбук,дорослі,Adults (facebook online),,1,2
+5,фейсбук,дорослі,Adults (facebook online),,1,8
+5,фейсбук,дорослі,Adults (facebook online),,1,33
+5,фейсбук,дорослі,Adults (facebook online),,1,23
+5,фейсбук,дорослі,Adults (facebook online),,1,43
+5,фейсбук,дорослі,Adults (facebook online),,1,17
+6,коледж,11,Tech School,технічна,1,50
+6,коледж,11,Tech School,технічна,1,65
+6,коледж,11,Tech School,технічна,1,73
+6,коледж,11,Tech School,технічна,1,19
+6,коледж,11,Tech School,технічна,1,50
+6,коледж,11,Tech School,технічна,1,35
+6,коледж,11,Tech School,технічна,1,54
+6,коледж,11,Tech School,технічна,1,41
+6,коледж,11,Tech School,технічна,1,35
+6,коледж,11,Tech School,технічна,1,9
+6,коледж,11,Tech School,технічна,1,1
+6,коледж,11,Tech School,технічна,1,13
+6,коледж,11,Tech School,технічна,1,17
+6,коледж,11,Tech School,технічна,1,69
+6,коледж,11,Tech School,технічна,1,79
+6,коледж,11,Tech School,технічна,1,36
+6,коледж,11,Tech School,технічна,1,69
+6,коледж,11,Tech School,технічна,1,3
+6,коледж,11,Tech School,технічна,1,9
+6,коледж,11,Tech School,технічна,1,59
+6,коледж,11,Tech School,технічна,1,69
+6,коледж,11,Tech School,технічна,1,32
+6,коледж,11,Tech School,технічна,1,50
+6,коледж,11,Tech School,технічна,1,44
+6,коледж,11,Tech School,технічна,1,25
+6,коледж,11,Tech School,технічна,1,97
+6,коледж,11,Tech School,технічна,1,53
+6,коледж,11,Tech School,технічна,1,67
+6,коледж,11,Tech School,технічна,1,59
+6,коледж,11,Tech School,технічна,1,76
+6,коледж,11,Tech School,технічна,1,77
+6,коледж,11,Tech School,технічна,1,1
+6,коледж,11,Tech School,технічна,1,77
+6,коледж,11,Tech School,технічна,1,47
+6,коледж,11,Tech School,технічна,1,5
+6,коледж,11,Tech School,технічна,1,42
+6,коледж,11,Tech School,технічна,1,8
+6,коледж,11,Tech School,технічна,1,99
+6,коледж,11,Tech School,технічна,1,33
+6,коледж,11,Tech School,технічна,1,26
+6,коледж,11,Tech School,технічна,1,45
+6,коледж,11,Tech School,технічна,1,46
+6,коледж,11,Tech School,технічна,1,6
+6,коледж,11,Tech School,технічна,1,30
+6,коледж,11,Tech School,технічна,1,41
+6,коледж,11,Tech School,технічна,1,22
+6,коледж,11,Tech School,технічна,1,60
+6,коледж,11,Tech School,технічна,1,89
+6,коледж,11,Tech School,технічна,1,6
+6,коледж,11,Tech School,технічна,1,50
+6,коледж,11,Tech School,технічна,1,46
+6,коледж,11,Tech School,технічна,2,12
+6,коледж,11,Tech School,технічна,2,35
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,23
+6,коледж,11,Tech School,технічна,2,1
+6,коледж,11,Tech School,технічна,2,13
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,17
+6,коледж,11,Tech School,технічна,2,12
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,69
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,37
+6,коледж,11,Tech School,технічна,2,12
+6,коледж,11,Tech School,технічна,2,8
+6,коледж,11,Tech School,технічна,2,6
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,20
+6,коледж,11,Tech School,технічна,2,22
+6,коледж,11,Tech School,технічна,2,11
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,5
+6,коледж,11,Tech School,технічна,2,42
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,20
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,7
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,13
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,24
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,1
+6,коледж,11,Tech School,технічна,2,15
+6,коледж,11,Tech School,технічна,2,1
+6,коледж,11,Tech School,технічна,2,20
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,17
+6,коледж,11,Tech School,технічна,2,33
+6,коледж,11,Tech School,технічна,2,1
+6,коледж,11,Tech School,технічна,2,18
+6,коледж,11,Tech School,технічна,2,25
+6,коледж,11,Tech School,технічна,2,66
+6,коледж,11,Tech School,технічна,2,32
+6,коледж,11,Tech School,технічна,2,28
+6,коледж,11,Tech School,технічна,2,30
+6,коледж,11,Tech School,технічна,2,27
+6,коледж,11,Tech School,технічна,2,15
+6,коледж,11,Tech School,технічна,2,17
+6,коледж,11,Tech School,технічна,2,39
+6,коледж,11,Tech School,технічна,2,5
+6,коледж,11,Tech School,технічна,2,100
+6,коледж,11,Tech School,технічна,2,33
+6,коледж,11,Tech School,технічна,2,1
+6,коледж,11,Tech School,технічна,2,50
+7,145,7,Math lyceum,школа,1,50
+7,145,7,Math lyceum,школа,1,65
+7,145,7,Math lyceum,школа,1,73
+7,145,7,Math lyceum,школа,1,19
+7,145,7,Math lyceum,школа,1,50
+7,145,7,Math lyceum,школа,1,35
+7,145,7,Math lyceum,школа,1,54
+7,145,7,Math lyceum,школа,1,41
+7,145,7,Math lyceum,школа,1,35
+7,145,7,Math lyceum,школа,1,9
+7,145,7,Math lyceum,школа,1,1
+7,145,7,Math lyceum,школа,1,13
+7,145,7,Math lyceum,школа,1,17
+7,145,7,Math lyceum,школа,1,69
+7,145,7,Math lyceum,школа,1,79
+7,145,7,Math lyceum,школа,1,36
+7,145,7,Math lyceum,школа,1,69
+7,145,7,Math lyceum,школа,1,3
+7,145,7,Math lyceum,школа,1,9
+7,145,7,Math lyceum,школа,1,59
+7,145,7,Math lyceum,школа,1,69
+7,145,7,Math lyceum,школа,1,32
+7,145,7,Math lyceum,школа,1,50
+7,145,7,Math lyceum,школа,1,44
+7,145,7,Math lyceum,школа,1,25
+7,145,7,Math lyceum,школа,1,97
+7,145,7,Math lyceum,школа,1,53
+7,145,7,Math lyceum,школа,1,67
+7,145,7,Math lyceum,школа,1,59
+7,145,7,Math lyceum,школа,1,76
+7,145,7,Math lyceum,школа,1,77
+7,145,7,Math lyceum,школа,1,1
+7,145,7,Math lyceum,школа,1,77
+7,145,7,Math lyceum,школа,1,47
+7,145,7,Math lyceum,школа,1,5
+7,145,7,Math lyceum,школа,1,42
+7,145,7,Math lyceum,школа,1,8
+7,145,7,Math lyceum,школа,1,99
+7,145,7,Math lyceum,школа,1,33
+7,145,7,Math lyceum,школа,1,26
+7,145,7,Math lyceum,школа,1,45
+7,145,7,Math lyceum,школа,1,46
+7,145,7,Math lyceum,школа,1,6
+7,145,7,Math lyceum,школа,1,30
+7,145,7,Math lyceum,школа,1,41
+7,145,7,Math lyceum,школа,1,22
+7,145,7,Math lyceum,школа,1,60
+7,145,7,Math lyceum,школа,1,89
+7,145,7,Math lyceum,школа,1,6
+7,145,7,Math lyceum,школа,1,50
+7,145,7,Math lyceum,школа,1,46
+8,145,9,Math lyceum,школа,1,100
+8,145,9,Math lyceum,школа,1,33
+8,145,9,Math lyceum,школа,1,33
+8,145,9,Math lyceum,школа,1,37
+8,145,9,Math lyceum,школа,1,21
+8,145,9,Math lyceum,школа,1,33
+8,145,9,Math lyceum,школа,1,55
+8,145,9,Math lyceum,школа,1,18
+8,145,9,Math lyceum,школа,1,27
+8,145,9,Math lyceum,школа,1,47
+8,145,9,Math lyceum,школа,1,15
+8,145,9,Math lyceum,школа,1,72
+8,145,9,Math lyceum,школа,1,4
+8,145,9,Math lyceum,школа,1,77
+8,145,9,Math lyceum,школа,1,3
+8,145,9,Math lyceum,школа,1,28
+8,145,9,Math lyceum,школа,1,65
+8,145,9,Math lyceum,школа,1,36
+8,145,9,Math lyceum,школа,1,87
+8,145,9,Math lyceum,школа,1,38
+8,145,9,Math lyceum,школа,1,22
+8,145,9,Math lyceum,школа,1,55
+8,145,9,Math lyceum,школа,1,17
+8,145,9,Math lyceum,школа,1,26
+8,145,9,Math lyceum,школа,1,7
+8,145,9,Math lyceum,школа,1,64
+8,145,9,Math lyceum,школа,1,1
+8,145,9,Math lyceum,школа,1,50
+8,145,9,Math lyceum,школа,1,37
+8,145,9,Math lyceum,школа,1,15
+8,145,9,Math lyceum,школа,1,19
+8,145,9,Math lyceum,школа,1,25
+8,145,9,Math lyceum,школа,1,4
+8,145,9,Math lyceum,школа,1,42
+8,145,9,Math lyceum,школа,1,28
+8,145,9,Math lyceum,школа,1,27
+8,145,9,Math lyceum,школа,1,22
+8,145,9,Math lyceum,школа,1,1
+8,145,9,Math lyceum,школа,1,23
+8,145,9,Math lyceum,школа,1,33
+8,145,9,Math lyceum,школа,1,22
+8,145,9,Math lyceum,школа,1,33
+8,145,9,Math lyceum,школа,1,48
+8,145,9,Math lyceum,школа,1,5
+8,145,9,Math lyceum,школа,1,4
+8,145,9,Math lyceum,школа,1,34
+8,145,9,Math lyceum,школа,1,33
+8,145,9,Math lyceum,школа,1,1
+8,145,9,Math lyceum,школа,1,1
+8,145,9,Math lyceum,школа,1,1
+8,145,9,Math lyceum,школа,2,8
+8,145,9,Math lyceum,школа,2,1
+8,145,9,Math lyceum,школа,2,1
+8,145,9,Math lyceum,школа,2,1
+8,145,9,Math lyceum,школа,2,1
+8,145,9,Math lyceum,школа,2,1
+8,145,9,Math lyceum,школа,2,1
+8,145,9,Math lyceum,школа,2,1
+8,145,9,Math lyceum,школа,2,12
+8,145,9,Math lyceum,школа,2,4
+8,145,9,Math lyceum,школа,2,7
+8,145,9,Math lyceum,школа,2,100
+8,145,9,Math lyceum,школа,2,4
+8,145,9,Math lyceum,школа,2,2
+8,145,9,Math lyceum,школа,2,2
+8,145,9,Math lyceum,школа,2,1
+8,145,9,Math lyceum,школа,2,17
+8,145,9,Math lyceum,школа,2,4
+8,145,9,Math lyceum,школа,2,3
+8,145,9,Math lyceum,школа,2,27
+8,145,9,Math lyceum,школа,2,3
+8,145,9,Math lyceum,школа,2,2
+8,145,9,Math lyceum,школа,2,3
+8,145,9,Math lyceum,школа,2,3
+8,145,9,Math lyceum,школа,2,33
+8,145,9,Math lyceum,школа,2,26
+8,145,9,Math lyceum,школа,2,9
+8,145,9,Math lyceum,школа,2,8
+8,145,9,Math lyceum,школа,2,33
+8,145,9,Math lyceum,школа,2,12
+8,145,9,Math lyceum,школа,2,3
+8,145,9,Math lyceum,школа,2,5
+8,145,9,Math lyceum,школа,2,11
+8,145,9,Math lyceum,школа,2,5
+8,145,9,Math lyceum,школа,2,4
+8,145,9,Math lyceum,школа,2,10
+8,145,9,Math lyceum,школа,2,11
+8,145,9,Math lyceum,школа,2,14
+8,145,9,Math lyceum,школа,2,94
+8,145,9,Math lyceum,школа,2,16
+8,145,9,Math lyceum,школа,2,8
+8,145,9,Math lyceum,школа,2,7
+8,145,9,Math lyceum,школа,2,42
+8,145,9,Math lyceum,школа,2,4
+8,145,9,Math lyceum,школа,2,1
+8,145,9,Math lyceum,школа,2,13
+8,145,9,Math lyceum,школа,2,5
+8,145,9,Math lyceum,школа,2,5
+8,145,9,Math lyceum,школа,2,27
+8,145,9,Math lyceum,школа,2,3
+8,145,9,Math lyceum,школа,2,100
+8,145,9,Math lyceum,школа,2,22
+8,145,9,Math lyceum,школа,2,16
+8,145,9,Math lyceum,школа,2,28
+8,145,9,Math lyceum,школа,2,13
+8,145,9,Math lyceum,школа,2,15
+8,145,9,Math lyceum,школа,2,1
+9,Русанівський,7-8,Math lyceum,школа,1,20
+9,Русанівський,7-8,Math lyceum,школа,1,30
+9,Русанівський,7-8,Math lyceum,школа,1,66
+9,Русанівський,7-8,Math lyceum,школа,1,43
+9,Русанівський,7-8,Math lyceum,школа,1,67
+9,Русанівський,7-8,Math lyceum,школа,1,28
+9,Русанівський,7-8,Math lyceum,школа,1,66
+9,Русанівський,7-8,Math lyceum,школа,1,50
+9,Русанівський,7-8,Math lyceum,школа,1,17
+9,Русанівський,7-8,Math lyceum,школа,1,33
+9,Русанівський,7-8,Math lyceum,школа,1,28
+9,Русанівський,7-8,Math lyceum,школа,1,30
+9,Русанівський,7-8,Math lyceum,школа,1,30
+9,Русанівський,7-8,Math lyceum,школа,1,35
+9,Русанівський,7-8,Math lyceum,школа,1,33
+9,Русанівський,7-8,Math lyceum,школа,1,25
+9,Русанівський,7-8,Math lyceum,школа,1,1
+9,Русанівський,7-8,Math lyceum,школа,1,35
+9,Русанівський,7-8,Math lyceum,школа,1,4
+9,Русанівський,7-8,Math lyceum,школа,1,27
+9,Русанівський,7-8,Math lyceum,школа,1,11
+9,Русанівський,7-8,Math lyceum,школа,1,34
+9,Русанівський,7-8,Math lyceum,школа,1,66
+9,Русанівський,7-8,Math lyceum,школа,1,33
+9,Русанівський,7-8,Math lyceum,школа,1,50
+9,Русанівський,7-8,Math lyceum,школа,1,66
+9,Русанівський,7-8,Math lyceum,школа,1,31
+9,Русанівський,7-8,Math lyceum,школа,1,99
+9,Русанівський,7-8,Math lyceum,школа,1,17
+9,Русанівський,7-8,Math lyceum,школа,2,20
+9,Русанівський,7-8,Math lyceum,школа,2,28
+9,Русанівський,7-8,Math lyceum,школа,2,17
+9,Русанівський,7-8,Math lyceum,школа,2,38
+9,Русанівський,7-8,Math lyceum,школа,2,3
+9,Русанівський,7-8,Math lyceum,школа,2,44
+9,Русанівський,7-8,Math lyceum,школа,2,9
+9,Русанівський,7-8,Math lyceum,школа,2,26
+9,Русанівський,7-8,Math lyceum,школа,2,3
+9,Русанівський,7-8,Math lyceum,школа,2,5
+9,Русанівський,7-8,Math lyceum,школа,2,1
+9,Русанівський,7-8,Math lyceum,школа,2,25
+9,Русанівський,7-8,Math lyceum,школа,2,12
+9,Русанівський,7-8,Math lyceum,школа,2,14
+9,Русанівський,7-8,Math lyceum,школа,2,10
+9,Русанівський,7-8,Math lyceum,школа,2,13
+9,Русанівський,7-8,Math lyceum,школа,2,30
+9,Русанівський,7-8,Math lyceum,школа,2,13
+9,Русанівський,7-8,Math lyceum,школа,2,16
+9,Русанівський,7-8,Math lyceum,школа,2,13
+9,Русанівський,7-8,Math lyceum,школа,2,6
+9,Русанівський,7-8,Math lyceum,школа,2,44
+9,Русанівський,7-8,Math lyceum,школа,2,100
+9,Русанівський,7-8,Math lyceum,школа,2,9
+9,Русанівський,7-8,Math lyceum,школа,2,50
+9,Русанівський,7-8,Math lyceum,школа,2,25
+9,Русанівський,7-8,Math lyceum,школа,2,21
+9,Русанівський,7-8,Math lyceum,школа,2,66
+9,Русанівський,7-8,Math lyceum,школа,2,99
+10,130,7-8,Math lyceum,школа,1,6
+10,130,7-8,Math lyceum,школа,1,77
+10,130,7-8,Math lyceum,школа,1,51
+10,130,7-8,Math lyceum,школа,1,23
+10,130,7-8,Math lyceum,школа,1,27
+10,130,7-8,Math lyceum,школа,1,50
+10,130,7-8,Math lyceum,школа,1,15
+10,130,7-8,Math lyceum,школа,1,99
+10,130,7-8,Math lyceum,школа,1,99
+10,130,7-8,Math lyceum,школа,1,35
+10,130,7-8,Math lyceum,школа,1,17
+10,130,7-8,Math lyceum,школа,1,51
+10,130,7-8,Math lyceum,школа,1,51
+10,130,7-8,Math lyceum,школа,1,51
+10,130,7-8,Math lyceum,школа,1,51
+10,130,7-8,Math lyceum,школа,1,26
+10,130,7-8,Math lyceum,школа,1,22
+10,130,7-8,Math lyceum,школа,1,5
+10,130,7-8,Math lyceum,школа,2,27
+10,130,7-8,Math lyceum,школа,2,1
+10,130,7-8,Math lyceum,школа,2,17
+10,130,7-8,Math lyceum,школа,2,19
+10,130,7-8,Math lyceum,школа,2,13
+10,130,7-8,Math lyceum,школа,2,37
+10,130,7-8,Math lyceum,школа,2,25
+10,130,7-8,Math lyceum,школа,2,32
+10,130,7-8,Math lyceum,школа,2,18
+10,130,7-8,Math lyceum,школа,2,15
+10,130,7-8,Math lyceum,школа,2,9
+10,130,7-8,Math lyceum,школа,2,57
+10,130,7-8,Math lyceum,школа,2,27
+10,130,7-8,Math lyceum,школа,2,19
+10,130,7-8,Math lyceum,школа,2,9
+10,130,7-8,Math lyceum,школа,2,28
+10,130,7-8,Math lyceum,школа,2,47
+10,130,7-8,Math lyceum,школа,2,29
+10,130,7-8,Math lyceum,школа,2,16
+10,130,7-8,Math lyceum,школа,2,17
+11,208,7-8,Ordinary school,школа,1,48
+11,208,7-8,Ordinary school,школа,1,42
+11,208,7-8,Ordinary school,школа,1,45
+11,208,7-8,Ordinary school,школа,1,66
+11,208,7-8,Ordinary school,школа,1,30
+11,208,7-8,Ordinary school,школа,1,88
+11,208,7-8,Ordinary school,школа,1,28
+11,208,7-8,Ordinary school,школа,1,66
+11,208,7-8,Ordinary school,школа,1,51
+11,208,7-8,Ordinary school,школа,1,63
+11,208,7-8,Ordinary school,школа,1,27
+11,208,7-8,Ordinary school,школа,1,53
+11,208,7-8,Ordinary school,школа,1,30
+11,208,7-8,Ordinary school,школа,1,56
+11,208,7-8,Ordinary school,школа,1,21
+11,208,7-8,Ordinary school,школа,1,33
+11,208,7-8,Ordinary school,школа,1,90
+11,208,7-8,Ordinary school,школа,1,67
+11,208,7-8,Ordinary school,школа,1,33
+11,208,7-8,Ordinary school,школа,1,75
+11,208,7-8,Ordinary school,школа,1,90
+11,208,7-8,Ordinary school,школа,1,90
+11,208,7-8,Ordinary school,школа,1,1
+11,208,7-8,Ordinary school,школа,1,1
+11,208,7-8,Ordinary school,школа,1,30
+11,208,7-8,Ordinary school,школа,1,42
+11,208,7-8,Ordinary school,школа,2,22
+11,208,7-8,Ordinary school,школа,2,11
+11,208,7-8,Ordinary school,школа,2,11
+11,208,7-8,Ordinary school,школа,2,23
+11,208,7-8,Ordinary school,школа,2,6
+11,208,7-8,Ordinary school,школа,2,20
+11,208,7-8,Ordinary school,школа,2,1
+11,208,7-8,Ordinary school,школа,2,22
+11,208,7-8,Ordinary school,школа,2,3
+11,208,7-8,Ordinary school,школа,2,5
+11,208,7-8,Ordinary school,школа,2,32
+11,208,7-8,Ordinary school,школа,2,17
+11,208,7-8,Ordinary school,школа,2,23
+11,208,7-8,Ordinary school,школа,2,33
+11,208,7-8,Ordinary school,школа,2,32
+11,208,7-8,Ordinary school,школа,2,22
+11,208,7-8,Ordinary school,школа,2,7
+11,208,7-8,Ordinary school,школа,2,44
+11,208,7-8,Ordinary school,школа,2,33
+11,208,7-8,Ordinary school,школа,2,22
+11,208,7-8,Ordinary school,школа,2,22
+11,208,7-8,Ordinary school,школа,2,22
+11,208,7-8,Ordinary school,школа,2,22
+12,DSSchool,дорослі,DS conference attendees,,1,25
+12,DSSchool,дорослі,DS conference attendees,,1,3
+12,DSSchool,дорослі,DS conference attendees,,1,1
+12,DSSchool,дорослі,DS conference attendees,,1,17
+12,DSSchool,дорослі,DS conference attendees,,1,42
+12,DSSchool,дорослі,DS conference attendees,,1,38
+12,DSSchool,дорослі,DS conference attendees,,1,66
+12,DSSchool,дорослі,DS conference attendees,,1,47
+12,DSSchool,дорослі,DS conference attendees,,1,69
+12,DSSchool,дорослі,DS conference attendees,,1,6
+12,DSSchool,дорослі,DS conference attendees,,1,77
+12,DSSchool,дорослі,DS conference attendees,,1,32
+12,DSSchool,дорослі,DS conference attendees,,1,55
+12,DSSchool,дорослі,DS conference attendees,,1,18
+12,DSSchool,дорослі,DS conference attendees,,1,34
+12,DSSchool,дорослі,DS conference attendees,,1,50
+12,DSSchool,дорослі,DS conference attendees,,1,45
+12,DSSchool,дорослі,DS conference attendees,,1,8
+12,DSSchool,дорослі,DS conference attendees,,1,52
+12,DSSchool,дорослі,DS conference attendees,,1,51
+12,DSSchool,дорослі,DS conference attendees,,1,14
+12,DSSchool,дорослі,DS conference attendees,,1,30
+12,DSSchool,дорослі,DS conference attendees,,1,70
+12,DSSchool,дорослі,DS conference attendees,,1,66
+12,DSSchool,дорослі,DS conference attendees,,1,31
+12,DSSchool,дорослі,DS conference attendees,,1,49
+12,DSSchool,дорослі,DS conference attendees,,1,34
+12,DSSchool,дорослі,DS conference attendees,,1,53
+12,DSSchool,дорослі,DS conference attendees,,1,33
+12,DSSchool,дорослі,DS conference attendees,,1,24
+12,DSSchool,дорослі,DS conference attendees,,1,58
+12,DSSchool,дорослі,DS conference attendees,,1,9
+12,DSSchool,дорослі,DS conference attendees,,1,1
+12,DSSchool,дорослі,DS conference attendees,,1,1
+12,DSSchool,дорослі,DS conference attendees,,1,17
+12,DSSchool,дорослі,DS conference attendees,,1,30
+12,DSSchool,дорослі,DS conference attendees,,1,20
+12,DSSchool,дорослі,DS conference attendees,,1,51
+12,DSSchool,дорослі,DS conference attendees,,1,67
+12,DSSchool,дорослі,DS conference attendees,,1,17
+12,DSSchool,дорослі,DS conference attendees,,1,100
+12,DSSchool,дорослі,DS conference attendees,,1,22
+12,DSSchool,дорослі,DS conference attendees,,1,44
+12,DSSchool,дорослі,DS conference attendees,,1,30
+12,DSSchool,дорослі,DS conference attendees,,1,99
+12,DSSchool,дорослі,DS conference attendees,,1,30
+12,DSSchool,дорослі,DS conference attendees,,1,9
+12,DSSchool,дорослі,DS conference attendees,,1,100
+12,DSSchool,дорослі,DS conference attendees,,1,1
+12,DSSchool,дорослі,DS conference attendees,,1,33
+12,DSSchool,дорослі,DS conference attendees,,1,15
+12,DSSchool,дорослі,DS conference attendees,,1,10
+12,DSSchool,дорослі,DS conference attendees,,1,100
+12,DSSchool,дорослі,DS conference attendees,,1,35
+12,DSSchool,дорослі,DS conference attendees,,1,33
+12,DSSchool,дорослі,DS conference attendees,,1,15
+12,DSSchool,дорослі,DS conference attendees,,1,1
+12,DSSchool,дорослі,DS conference attendees,,1,100
+12,DSSchool,дорослі,DS conference attendees,,1,34
+12,DSSchool,дорослі,DS conference attendees,,1,13
+12,DSSchool,дорослі,DS conference attendees,,2,4
+12,DSSchool,дорослі,DS conference attendees,,2,5
+12,DSSchool,дорослі,DS conference attendees,,2,1
+12,DSSchool,дорослі,DS conference attendees,,2,18
+12,DSSchool,дорослі,DS conference attendees,,2,7
+12,DSSchool,дорослі,DS conference attendees,,2,17
+12,DSSchool,дорослі,DS conference attendees,,2,1
+12,DSSchool,дорослі,DS conference attendees,,2,29
+12,DSSchool,дорослі,DS conference attendees,,2,1
+12,DSSchool,дорослі,DS conference attendees,,2,1
+12,DSSchool,дорослі,DS conference attendees,,2,1
+12,DSSchool,дорослі,DS conference attendees,,2,1
+12,DSSchool,дорослі,DS conference attendees,,2,2
+12,DSSchool,дорослі,DS conference attendees,,2,11
+12,DSSchool,дорослі,DS conference attendees,,2,11
+12,DSSchool,дорослі,DS conference attendees,,2,5
+12,DSSchool,дорослі,DS conference attendees,,2,2
+12,DSSchool,дорослі,DS conference attendees,,2,13
+12,DSSchool,дорослі,DS conference attendees,,2,100
+12,DSSchool,дорослі,DS conference attendees,,2,6
+12,DSSchool,дорослі,DS conference attendees,,2,9
+12,DSSchool,дорослі,DS conference attendees,,2,2
+12,DSSchool,дорослі,DS conference attendees,,2,24
+12,DSSchool,дорослі,DS conference attendees,,2,66
+12,DSSchool,дорослі,DS conference attendees,,2,15
+12,DSSchool,дорослі,DS conference attendees,,2,2
+12,DSSchool,дорослі,DS conference attendees,,2,1
+12,DSSchool,дорослі,DS conference attendees,,2,1
+12,DSSchool,дорослі,DS conference attendees,,2,1
+12,DSSchool,дорослі,DS conference attendees,,2,4.5
+12,DSSchool,дорослі,DS conference attendees,,2,7
+12,DSSchool,дорослі,DS conference attendees,,2,1
+12,DSSchool,дорослі,DS conference attendees,,2,9
+12,DSSchool,дорослі,DS conference attendees,,2,100
+12,DSSchool,дорослі,DS conference attendees,,2,100
+12,DSSchool,дорослі,DS conference attendees,,2,55
+12,DSSchool,дорослі,DS conference attendees,,2,100
+12,DSSchool,дорослі,DS conference attendees,,2,13
+12,DSSchool,дорослі,DS conference attendees,,2,5
+12,DSSchool,дорослі,DS conference attendees,,2,8
+12,DSSchool,дорослі,DS conference attendees,,2,25
+12,DSSchool,дорослі,DS conference attendees,,2,1
+12,DSSchool,дорослі,DS conference attendees,,2,100
+12,DSSchool,дорослі,DS conference attendees,,2,6
+12,DSSchool,дорослі,DS conference attendees,,2,1
+12,DSSchool,дорослі,DS conference attendees,,2,19
+12,DSSchool,дорослі,DS conference attendees,,2,13
+12,DSSchool,дорослі,DS conference attendees,,2,100
+12,DSSchool,дорослі,DS conference attendees,,2,14
+12,DSSchool,дорослі,DS conference attendees,,2,9
+12,DSSchool,дорослі,DS conference attendees,,2,11
+12,DSSchool,дорослі,DS conference attendees,,2,1
+12,DSSchool,дорослі,DS conference attendees,,2,12
+12,DSSchool,дорослі,DS conference attendees,,2,100
+12,DSSchool,дорослі,DS conference attendees,,2,13
+12,DSSchool,дорослі,DS conference attendees,,2,15
+12,DSSchool,дорослі,DS conference attendees,,2,23
+13,ІПСА,,MS students,,1,84
+13,ІПСА,,MS students,,1,23
+13,ІПСА,,MS students,,1,70
+13,ІПСА,,MS students,,1,25
+13,ІПСА,,MS students,,1,1
+13,ІПСА,,MS students,,1,100
+13,ІПСА,,MS students,,1,67
+13,ІПСА,,MS students,,1,45
+13,ІПСА,,MS students,,1,50
+13,ІПСА,,MS students,,1,57
+13,ІПСА,,MS students,,1,1
+13,ІПСА,,MS students,,1,66
+13,ІПСА,,MS students,,1,36
+13,ІПСА,,MS students,,1,47
+13,ІПСА,,MS students,,1,45
+13,ІПСА,,MS students,,1,51
+13,ІПСА,,MS students,,1,24
+13,ІПСА,,MS students,,1,18
+13,ІПСА,,MS students,,1,40
+13,ІПСА,,MS students,,1,25
+13,ІПСА,,MS students,,1,21
+13,ІПСА,,MS students,,1,3
+13,ІПСА,,MS students,,1,40
+13,ІПСА,,MS students,,1,11
+13,ІПСА,,MS students,,1,88
+13,ІПСА,,MS students,,1,84
+13,ІПСА,,MS students,,1,23
+14,НАУКМА,студенти,MS students,,1,26
+14,НАУКМА,студенти,MS students,,1,10
+14,НАУКМА,студенти,MS students,,1,11
+14,НАУКМА,студенти,MS students,,1,18
+14,НАУКМА,студенти,MS students,,1,30
+14,НАУКМА,студенти,MS students,,1,25
+14,НАУКМА,студенти,MS students,,1,69
+14,НАУКМА,студенти,MS students,,1,30
+14,НАУКМА,студенти,MS students,,2,14
+14,НАУКМА,студенти,MS students,,2,9
+14,НАУКМА,студенти,MS students,,2,7
+14,НАУКМА,студенти,MS students,,2,10
+14,НАУКМА,студенти,MS students,,2,8
+14,НАУКМА,студенти,MS students,,2,12
+14,НАУКМА,студенти,MS students,,2,1
+14,НАУКМА,студенти,MS students,,2,8
+15,цифра,6-7,Math lyceum,школа,1,11
+15,цифра,6-7,Math lyceum,школа,1,43
+15,цифра,6-7,Math lyceum,школа,1,37
+15,цифра,6-7,Math lyceum,школа,1,28
+15,цифра,6-7,Math lyceum,школа,1,26
+15,цифра,6-7,Math lyceum,школа,1,24
+15,цифра,6-7,Math lyceum,школа,1,17
+15,цифра,6-7,Math lyceum,школа,1,50
+15,цифра,6-7,Math lyceum,школа,1,72
+15,цифра,6-7,Math lyceum,школа,1,25
+15,цифра,6-7,Math lyceum,школа,1,12
+15,цифра,6-7,Math lyceum,школа,1,67
+15,цифра,6-7,Math lyceum,школа,1,33
+15,цифра,6-7,Math lyceum,школа,1,99
+15,цифра,6-7,Math lyceum,школа,1,45
+15,цифра,6-7,Math lyceum,школа,1,99
+15,цифра,6-7,Math lyceum,школа,1,42
+15,цифра,6-7,Math lyceum,школа,1,9
+15,цифра,6-7,Math lyceum,школа,2,13
+15,цифра,6-7,Math lyceum,школа,2,15
+15,цифра,6-7,Math lyceum,школа,2,56
+15,цифра,6-7,Math lyceum,школа,2,1
+15,цифра,6-7,Math lyceum,школа,2,2
+15,цифра,6-7,Math lyceum,школа,2,43
+15,цифра,6-7,Math lyceum,школа,2,20
+15,цифра,6-7,Math lyceum,школа,2,10
+15,цифра,6-7,Math lyceum,школа,2,9
+15,цифра,6-7,Math lyceum,школа,2,1
+15,цифра,6-7,Math lyceum,школа,2,26
+15,цифра,6-7,Math lyceum,школа,2,8
+15,цифра,6-7,Math lyceum,школа,2,16
+15,цифра,6-7,Math lyceum,школа,2,5
+15,цифра,6-7,Math lyceum,школа,2,13
+15,цифра,6-7,Math lyceum,школа,2,12
+15,цифра,6-7,Math lyceum,школа,2,43
+16,LDSSC,дорослі,DS conference attendees,,1,21
+16,LDSSC,дорослі,DS conference attendees,,1,21
+16,LDSSC,дорослі,DS conference attendees,,1,1
+16,LDSSC,дорослі,DS conference attendees,,1,44
+16,LDSSC,дорослі,DS conference attendees,,1,53
+16,LDSSC,дорослі,DS conference attendees,,1,50
+16,LDSSC,дорослі,DS conference attendees,,1,33
+16,LDSSC,дорослі,DS conference attendees,,1,47
+16,LDSSC,дорослі,DS conference attendees,,1,13
+16,LDSSC,дорослі,DS conference attendees,,1,66
+16,LDSSC,дорослі,DS conference attendees,,1,25
+16,LDSSC,дорослі,DS conference attendees,,1,35
+16,LDSSC,дорослі,DS conference attendees,,1,25
+16,LDSSC,дорослі,DS conference attendees,,1,22
+16,LDSSC,дорослі,DS conference attendees,,1,35
+16,LDSSC,дорослі,DS conference attendees,,1,1
+16,LDSSC,дорослі,DS conference attendees,,1,35
+16,LDSSC,дорослі,DS conference attendees,,1,67
+16,LDSSC,дорослі,DS conference attendees,,1,17
+16,LDSSC,дорослі,DS conference attendees,,1,27
+16,LDSSC,дорослі,DS conference attendees,,1,40
+16,LDSSC,дорослі,DS conference attendees,,1,25
+16,LDSSC,дорослі,DS conference attendees,,1,1
+16,LDSSC,дорослі,DS conference attendees,,1,35
+16,LDSSC,дорослі,DS conference attendees,,1,57
+16,LDSSC,дорослі,DS conference attendees,,1,33
+16,LDSSC,дорослі,DS conference attendees,,1,22
+16,LDSSC,дорослі,DS conference attendees,,1,22
+16,LDSSC,дорослі,DS conference attendees,,1,8
+16,LDSSC,дорослі,DS conference attendees,,1,52
+16,LDSSC,дорослі,DS conference attendees,,1,15
+16,LDSSC,дорослі,DS conference attendees,,1,13
+16,LDSSC,дорослі,DS conference attendees,,1,33
+16,LDSSC,дорослі,DS conference attendees,,1,63
+16,LDSSC,дорослі,DS conference attendees,,1,40
+16,LDSSC,дорослі,DS conference attendees,,1,16
+16,LDSSC,дорослі,DS conference attendees,,1,50
+16,LDSSC,дорослі,DS conference attendees,,1,20
+16,LDSSC,дорослі,DS conference attendees,,1,30
+16,LDSSC,дорослі,DS conference attendees,,1,18
+16,LDSSC,дорослі,DS conference attendees,,1,9
+16,LDSSC,дорослі,DS conference attendees,,1,33
+16,LDSSC,дорослі,DS conference attendees,,1,23
+16,LDSSC,дорослі,DS conference attendees,,1,50
+16,LDSSC,дорослі,DS conference attendees,,1,12
+16,LDSSC,дорослі,DS conference attendees,,1,24
+16,LDSSC,дорослі,DS conference attendees,,1,34
+16,LDSSC,дорослі,DS conference attendees,,1,77
+16,LDSSC,дорослі,DS conference attendees,,1,50
+16,LDSSC,дорослі,DS conference attendees,,1,48
+16,LDSSC,дорослі,DS conference attendees,,1,29
+16,LDSSC,дорослі,DS conference attendees,,1,20
+16,LDSSC,дорослі,DS conference attendees,,1,37
+16,LDSSC,дорослі,DS conference attendees,,1,23
+16,LDSSC,дорослі,DS conference attendees,,1,25
+16,LDSSC,дорослі,DS conference attendees,,1,22
+16,LDSSC,дорослі,DS conference attendees,,1,16
+16,LDSSC,дорослі,DS conference attendees,,1,50
+16,LDSSC,дорослі,DS conference attendees,,1,30
+16,LDSSC,дорослі,DS conference attendees,,1,42
+16,LDSSC,дорослі,DS conference attendees,,1,76
+16,LDSSC,дорослі,DS conference attendees,,1,73
+16,LDSSC,дорослі,DS conference attendees,,1,1
+16,LDSSC,дорослі,DS conference attendees,,1,5
+16,LDSSC,дорослі,DS conference attendees,,1,66
+16,LDSSC,дорослі,DS conference attendees,,1,100
+16,LDSSC,дорослі,DS conference attendees,,1,22
+16,LDSSC,дорослі,DS conference attendees,,1,18
+16,LDSSC,дорослі,DS conference attendees,,1,20
+16,LDSSC,дорослі,DS conference attendees,,1,75
+16,LDSSC,дорослі,DS conference attendees,,1,42
+16,LDSSC,дорослі,DS conference attendees,,1,63
+16,LDSSC,дорослі,DS conference attendees,,1,5
+16,LDSSC,дорослі,DS conference attendees,,1,66
+16,LDSSC,дорослі,DS conference attendees,,1,89
+16,LDSSC,дорослі,DS conference attendees,,1,16
+16,LDSSC,дорослі,DS conference attendees,,1,77
+16,LDSSC,дорослі,DS conference attendees,,1,51
+16,LDSSC,дорослі,DS conference attendees,,1,1
+16,LDSSC,дорослі,DS conference attendees,,1,4
+16,LDSSC,дорослі,DS conference attendees,,1,15
+16,LDSSC,дорослі,DS conference attendees,,1,45
+16,LDSSC,дорослі,DS conference attendees,,2,5
+16,LDSSC,дорослі,DS conference attendees,,2,100
+16,LDSSC,дорослі,DS conference attendees,,2,15
+16,LDSSC,дорослі,DS conference attendees,,2,3
+16,LDSSC,дорослі,DS conference attendees,,2,8
+16,LDSSC,дорослі,DS conference attendees,,2,22
+16,LDSSC,дорослі,DS conference attendees,,2,12
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,44
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,8
+16,LDSSC,дорослі,DS conference attendees,,2,11
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,10
+16,LDSSC,дорослі,DS conference attendees,,2,96
+16,LDSSC,дорослі,DS conference attendees,,2,11
+16,LDSSC,дорослі,DS conference attendees,,2,5
+16,LDSSC,дорослі,DS conference attendees,,2,12
+16,LDSSC,дорослі,DS conference attendees,,2,19
+16,LDSSC,дорослі,DS conference attendees,,2,10
+16,LDSSC,дорослі,DS conference attendees,,2,13
+16,LDSSC,дорослі,DS conference attendees,,2,12
+16,LDSSC,дорослі,DS conference attendees,,2,14
+16,LDSSC,дорослі,DS conference attendees,,2,11
+16,LDSSC,дорослі,DS conference attendees,,2,2
+16,LDSSC,дорослі,DS conference attendees,,2,15
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,4
+16,LDSSC,дорослі,DS conference attendees,,2,15
+16,LDSSC,дорослі,DS conference attendees,,2,27
+16,LDSSC,дорослі,DS conference attendees,,2,11
+16,LDSSC,дорослі,DS conference attendees,,2,22
+16,LDSSC,дорослі,DS conference attendees,,2,3
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,10
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,7
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,8
+16,LDSSC,дорослі,DS conference attendees,,2,9
+16,LDSSC,дорослі,DS conference attendees,,2,23
+16,LDSSC,дорослі,DS conference attendees,,2,29
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,14
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,2
+16,LDSSC,дорослі,DS conference attendees,,2,6
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,29
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,33
+16,LDSSC,дорослі,DS conference attendees,,2,3
+16,LDSSC,дорослі,DS conference attendees,,2,11
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,34
+16,LDSSC,дорослі,DS conference attendees,,2,28
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,3
+16,LDSSC,дорослі,DS conference attendees,,2,3
+16,LDSSC,дорослі,DS conference attendees,,2,30
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,28
+16,LDSSC,дорослі,DS conference attendees,,2,14
+16,LDSSC,дорослі,DS conference attendees,,2,26
+16,LDSSC,дорослі,DS conference attendees,,2,8
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,12
+16,LDSSC,дорослі,DS conference attendees,,2,8
+16,LDSSC,дорослі,DS conference attendees,,2,28
+16,LDSSC,дорослі,DS conference attendees,,2,13
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,33
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,7
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,33
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,14
+16,LDSSC,дорослі,DS conference attendees,,2,20
+16,LDSSC,дорослі,DS conference attendees,,2,2
+16,LDSSC,дорослі,DS conference attendees,,2,1
+16,LDSSC,дорослі,DS conference attendees,,2,5
+16,LDSSC,дорослі,DS conference attendees,,2,15
+16,LDSSC,дорослі,DS conference attendees,,2,11
+16,LDSSC,дорослі,DS conference attendees,,2,11
+17,бізнес,дорослі,Business,,1,50
+17,бізнес,дорослі,Business,,1,44
+17,бізнес,дорослі,Business,,1,1
+17,бізнес,дорослі,Business,,1,20
+17,бізнес,дорослі,Business,,1,29
+17,бізнес,дорослі,Business,,1,70
+17,бізнес,дорослі,Business,,1,3
+17,бізнес,дорослі,Business,,1,68
+17,бізнес,дорослі,Business,,1,80
+17,бізнес,дорослі,Business,,1,91
+17,бізнес,дорослі,Business,,1,33
+17,бізнес,дорослі,Business,,1,41
+17,бізнес,дорослі,Business,,1,25
+17,бізнес,дорослі,Business,,1,55
+17,бізнес,дорослі,Business,,1,77
+17,бізнес,дорослі,Business,,1,35
+17,бізнес,дорослі,Business,,1,48
+17,бізнес,дорослі,Business,,1,27
+17,бізнес,дорослі,Business,,1,9
+17,бізнес,дорослі,Business,,1,40
+17,бізнес,дорослі,Business,,1,66
+17,бізнес,дорослі,Business,,1,43
+17,бізнес,дорослі,Business,,1,71
+17,бізнес,дорослі,Business,,1,83
+17,бізнес,дорослі,Business,,1,32
+17,бізнес,дорослі,Business,,1,22
+17,бізнес,дорослі,Business,,1,40
+17,бізнес,дорослі,Business,,1,75
+17,бізнес,дорослі,Business,,1,55
+17,бізнес,дорослі,Business,,1,33
+17,бізнес,дорослі,Business,,1,23
+17,бізнес,дорослі,Business,,1,12
+17,бізнес,дорослі,Business,,1,50
+17,бізнес,дорослі,Business,,1,33
+17,бізнес,дорослі,Business,,1,32
+17,бізнес,дорослі,Business,,1,13
+17,бізнес,дорослі,Business,,1,1
+17,бізнес,дорослі,Business,,1,69
+17,бізнес,дорослі,Business,,1,4
+17,бізнес,дорослі,Business,,1,67
+17,бізнес,дорослі,Business,,1,75
+17,бізнес,дорослі,Business,,1,27
+17,бізнес,дорослі,Business,,1,33
+17,бізнес,дорослі,Business,,1,33
+17,бізнес,дорослі,Business,,1,4
+17,бізнес,дорослі,Business,,1,18
+17,бізнес,дорослі,Business,,1,66
+17,бізнес,дорослі,Business,,1,25
+17,бізнес,дорослі,Business,,1,50
+17,бізнес,дорослі,Business,,1,84
+17,бізнес,дорослі,Business,,1,77
+17,бізнес,дорослі,Business,,1,72
+17,бізнес,дорослі,Business,,1,48
+17,бізнес,дорослі,Business,,2,1
+17,бізнес,дорослі,Business,,2,2
+17,бізнес,дорослі,Business,,2,11
+17,бізнес,дорослі,Business,,2,1
+17,бізнес,дорослі,Business,,2,10
+17,бізнес,дорослі,Business,,2,26
+17,бізнес,дорослі,Business,,2,4
+17,бізнес,дорослі,Business,,2,24
+17,бізнес,дорослі,Business,,2,2
+17,бізнес,дорослі,Business,,2,15
+17,бізнес,дорослі,Business,,2,1
+17,бізнес,дорослі,Business,,2,11
+17,бізнес,дорослі,Business,,2,1
+17,бізнес,дорослі,Business,,2,12
+17,бізнес,дорослі,Business,,2,2
+17,бізнес,дорослі,Business,,2,1
+17,бізнес,дорослі,Business,,2,12
+17,бізнес,дорослі,Business,,2,45
+17,бізнес,дорослі,Business,,2,1
+17,бізнес,дорослі,Business,,2,15
+17,бізнес,дорослі,Business,,2,1
+17,бізнес,дорослі,Business,,2,21
+17,бізнес,дорослі,Business,,2,29
+17,бізнес,дорослі,Business,,2,1
+17,бізнес,дорослі,Business,,2,13
+17,бізнес,дорослі,Business,,2,30
+17,бізнес,дорослі,Business,,2,3
+17,бізнес,дорослі,Business,,2,32
+17,бізнес,дорослі,Business,,2,20
+17,бізнес,дорослі,Business,,2,28
+17,бізнес,дорослі,Business,,2,1
+17,бізнес,дорослі,Business,,2,12
+17,бізнес,дорослі,Business,,2,1
+17,бізнес,дорослі,Business,,2,27
+17,бізнес,дорослі,Business,,2,1
+17,бізнес,дорослі,Business,,2,10
+17,бізнес,дорослі,Business,,2,29
+17,бізнес,дорослі,Business,,2,3
+17,бізнес,дорослі,Business,,2,29
+17,бізнес,дорослі,Business,,2,28
+17,бізнес,дорослі,Business,,2,29
+17,бізнес,дорослі,Business,,2,17
+17,бізнес,дорослі,Business,,2,1
+17,бізнес,дорослі,Business,,2,8
+17,бізнес,дорослі,Business,,2,99
+17,бізнес,дорослі,Business,,2,21
+17,бізнес,дорослі,Business,,2,10
+17,бізнес,дорослі,Business,,2,1
+17,бізнес,дорослі,Business,,2,29
+17,бізнес,дорослі,Business,,2,1
+17,бізнес,дорослі,Business,,2,11
+17,бізнес,дорослі,Business,,2,9
+17,бізнес,дорослі,Business,,2,27
+18,бізнес,дорослі,Business,,1,50
+18,бізнес,дорослі,Business,,1,67
+18,бізнес,дорослі,Business,,1,99
+18,бізнес,дорослі,Business,,1,50
+18,бізнес,дорослі,Business,,1,77
+18,бізнес,дорослі,Business,,1,33
+18,бізнес,дорослі,Business,,1,52
+18,бізнес,дорослі,Business,,1,28
+18,бізнес,дорослі,Business,,1,16
+18,бізнес,дорослі,Business,,1,33
+18,бізнес,дорослі,Business,,1,67
+18,бізнес,дорослі,Business,,1,32
+18,бізнес,дорослі,Business,,2,10
+18,бізнес,дорослі,Business,,2,36
+18,бізнес,дорослі,Business,,2,17
+18,бізнес,дорослі,Business,,2,8
+18,бізнес,дорослі,Business,,2,1
+18,бізнес,дорослі,Business,,2,19
+18,бізнес,дорослі,Business,,2,8
+18,бізнес,дорослі,Business,,2,12
+18,бізнес,дорослі,Business,,2,1
+18,бізнес,дорослі,Business,,2,10
+18,бізнес,дорослі,Business,,2,3
+18,бізнес,дорослі,Business,,2,22
+18,бізнес,дорослі,Business,,2,12
+18,бізнес,дорослі,Business,,2,7
+18,бізнес,дорослі,Business,,2,16
+18,бізнес,дорослі,Business,,2,25
+18,бізнес,дорослі,Business,,2,19
+18,бізнес,дорослі,Business,,2,21
+18,бізнес,дорослі,Business,,2,6
+18,бізнес,дорослі,Business,,2,25
+18,бізнес,дорослі,Business,,2,2
+18,бізнес,дорослі,Business,,2,25
+18,бізнес,дорослі,Business,,2,33
+18,бізнес,дорослі,Business,,2,17
+18,бізнес,дорослі,Business,,2,12
+18,бізнес,дорослі,Business,,2,1
+18,бізнес,дорослі,Business,,2,15
+18,бізнес,дорослі,Business,,2,11
+18,бізнес,дорослі,Business,,2,16
+18,бізнес,дорослі,Business,,2,6
+18,бізнес,дорослі,Business,,2,15
+18,бізнес,дорослі,Business,,2,16
+18,бізнес,дорослі,Business,,2,11
+18,бізнес,дорослі,Business,,2,13
+18,бізнес,дорослі,Business,,2,1
+18,бізнес,дорослі,Business,,2,20
+18,бізнес,дорослі,Business,,2,1
+18,бізнес,дорослі,Business,,2,11
+18,бізнес,дорослі,Business,,2,1
+18,бізнес,дорослі,Business,,2,24
+18,бізнес,дорослі,Business,,2,22
+18,бізнес,дорослі,Business,,2,10
+18,бізнес,дорослі,Business,,2,9
+18,бізнес,дорослі,Business,,2,22
+18,бізнес,дорослі,Business,,2,7
+18,бізнес,дорослі,Business,,2,22
+19,цифра,,Math lyceum,,1,11
+19,цифра,,Math lyceum,,1,59
+19,цифра,,Math lyceum,,1,27
+19,цифра,,Math lyceum,,1,99
+19,цифра,,Math lyceum,,1,7
+19,цифра,,Math lyceum,,1,37
+19,цифра,,Math lyceum,,1,50
+19,цифра,,Math lyceum,,1,66
+19,цифра,,Math lyceum,,1,6
+19,цифра,,Math lyceum,,1,28
+19,цифра,,Math lyceum,,1,69
+19,цифра,,Math lyceum,,2,36
+19,цифра,,Math lyceum,,2,36
+19,цифра,,Math lyceum,,2,7
+19,цифра,,Math lyceum,,2,36
+19,цифра,,Math lyceum,,2,13
+19,цифра,,Math lyceum,,2,26
+19,цифра,,Math lyceum,,2,34
+19,цифра,,Math lyceum,,2,30
+19,цифра,,Math lyceum,,2,33
+19,цифра,,Math lyceum,,2,28
+19,цифра,,Math lyceum,,2,11
+19,цифра,,Math lyceum,,3,13
+19,цифра,,Math lyceum,,3,100
+19,цифра,,Math lyceum,,3,20
+19,цифра,,Math lyceum,,3,7
+19,цифра,,Math lyceum,,3,24
+19,цифра,,Math lyceum,,3,20
+19,цифра,,Math lyceum,,3,27
+19,цифра,,Math lyceum,,3,10
+20,базис,,Math lyceum,,1,15
+20,базис,,Math lyceum,,1,1
+20,базис,,Math lyceum,,1,66
+20,базис,,Math lyceum,,1,18
+20,базис,,Math lyceum,,1,19
+20,базис,,Math lyceum,,1,13
+20,базис,,Math lyceum,,1,13
+20,базис,,Math lyceum,,1,41
+20,базис,,Math lyceum,,1,34
+20,базис,,Math lyceum,,1,42
+20,базис,,Math lyceum,,1,12
+20,базис,,Math lyceum,,1,47
+20,базис,,Math lyceum,,1,7
+20,базис,,Math lyceum,,1,21
+20,базис,,Math lyceum,,1,33
+20,базис,,Math lyceum,,1,54
+20,базис,,Math lyceum,,1,20
+20,базис,,Math lyceum,,1,10
+20,базис,,Math lyceum,,1,25
+20,базис,,Math lyceum,,1,69
+20,базис,,Math lyceum,,1,20
+20,базис,,Math lyceum,,1,34
+20,базис,,Math lyceum,,1,90
+20,базис,,Math lyceum,,1,1
+20,базис,,Math lyceum,,1,40
+20,базис,,Math lyceum,,1,30
+20,базис,,Math lyceum,,1,35
+20,базис,,Math lyceum,,1,56
+20,базис,,Math lyceum,,1,51
+20,базис,,Math lyceum,,1,20
+20,базис,,Math lyceum,,1,25
+20,базис,,Math lyceum,,1,4
+20,базис,,Math lyceum,,1,39
+20,базис,,Math lyceum,,1,14
+20,базис,,Math lyceum,,1,40
+20,базис,,Math lyceum,,1,30
+20,базис,,Math lyceum,,1,20
+20,базис,,Math lyceum,,1,25
+20,базис,,Math lyceum,,1,7
+20,базис,,Math lyceum,,1,34
+20,базис,,Math lyceum,,1,50
+20,базис,,Math lyceum,,1,36
+20,базис,,Math lyceum,,1,14
+20,базис,,Math lyceum,,1,20
+20,базис,,Math lyceum,,2,9
+20,базис,,Math lyceum,,2,17
+20,базис,,Math lyceum,,2,99
+20,базис,,Math lyceum,,2,3
+20,базис,,Math lyceum,,2,12
+20,базис,,Math lyceum,,2,7
+20,базис,,Math lyceum,,2,11
+20,базис,,Math lyceum,,2,31
+20,базис,,Math lyceum,,2,100
+20,базис,,Math lyceum,,2,8
+20,базис,,Math lyceum,,2,100
+20,базис,,Math lyceum,,2,1
+20,базис,,Math lyceum,,2,7
+20,базис,,Math lyceum,,2,18
+20,базис,,Math lyceum,,2,1
+20,базис,,Math lyceum,,2,100
+20,базис,,Math lyceum,,2,1
+20,базис,,Math lyceum,,2,10
+20,базис,,Math lyceum,,2,1
+20,базис,,Math lyceum,,2,11
+20,базис,,Math lyceum,,2,3
+20,базис,,Math lyceum,,2,3
+20,базис,,Math lyceum,,2,19
+20,базис,,Math lyceum,,2,1
+20,базис,,Math lyceum,,2,100
+20,базис,,Math lyceum,,2,1
+20,базис,,Math lyceum,,2,2
+20,базис,,Math lyceum,,2,22
+20,базис,,Math lyceum,,2,15
+20,базис,,Math lyceum,,2,100
+20,базис,,Math lyceum,,2,10
+20,базис,,Math lyceum,,2,6
+20,базис,,Math lyceum,,2,3
+20,базис,,Math lyceum,,2,100
+20,базис,,Math lyceum,,2,100
+20,базис,,Math lyceum,,2,100
+20,базис,,Math lyceum,,2,42
+20,базис,,Math lyceum,,2,3
+20,базис,,Math lyceum,,2,15
+20,базис,,Math lyceum,,2,3
+20,базис,,Math lyceum,,2,1
+20,базис,,Math lyceum,,2,1
+20,базис,,Math lyceum,,2,1
+20,базис,,Math lyceum,,2,1
